@@ -27,7 +27,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `anastasiya-dev`,
+        name: `anastasiya.dev`,
         short_name: `starter`,
         start_url: `/`,
         display: `minimal-ui`,
