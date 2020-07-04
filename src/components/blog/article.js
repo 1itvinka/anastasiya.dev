@@ -58,12 +58,7 @@ const Article = ({ post }) => {
           Updated on {post.frontmatter.updatedOnDate}
         </p>
       </header>
-      {img && (
-        <Img
-          className={classes.img}
-          fluid={post.frontmatter.image.childImageSharp.fluid}
-        />
-      )}
+      {img && <Img className={classes.img} fluid={img.childImageSharp.fluid} />}
       <section
         dangerouslySetInnerHTML={{ __html: post.html }}
         className={classes.text}
