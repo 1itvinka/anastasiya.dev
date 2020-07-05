@@ -1,7 +1,7 @@
 ---
 title: Comments in Clean JavaScript Code
 date: "2020-07-05T08:00:21+00:00"
-updatedOnDate: "2020-07-05T08:00:21+00:00"
+updatedOnDate: "2020-07-05T12:23:27+00:00"
 image: img.jpg
 ---
 
@@ -17,7 +17,7 @@ Comments can lie and mislead. They create noise and they can clutter your code. 
 
 **1. Comments to make up for bad code**
 
-It happens when we write some code and we know it's confusing. It's better to spend time cleaning the mess than to write comments that explain it.
+It happens when we write some code and we know it's confusing. But it's better to spend time cleaning the mess than to write comments that explain it.
 
 **2. Comments that rephrase what is already expressed in the code**
 
@@ -123,7 +123,7 @@ If you think you need such comments, try to shorten your functions. And even if 
 
 It can be intent behind a decision, warning of consequences, clarification, etc.
 
-For example, as a frontend developer who deals with all sorts of weird browser bugs, sometimes I have to explain why this line of code is not a nonsense but an important fix.
+For example, as a frontend developer who deals with all sorts of weird browser bugs, sometimes I have to explain why this line of code is not nonsense but an important fix.
 
 **2. Amplification**
 
@@ -139,7 +139,7 @@ It's not a good comment as it misses the information about why it's important to
 
 Sometimes there's a job that should be done, but you can't do it right now for some reason. In this case it can be reasonable to leave a "todo" note.
 
-That's super important though to provide the detailed information about the task. There's nothing more frustrating than a bare "todo" in a codebase. Even if that's obvious to you what needs to be done, it might be not that obvious in a couple of weeks, and it definitely won't be obvious for your colleagues.
+That's super important though to provide the detailed information about the task. There's nothing more frustrating than a bare "todo" in a codebase. Even if that's obvious to you what needs to be done, it might not be that obvious in a couple of weeks, and it definitely won't be obvious for your colleagues.
 
 Of course needless to say that a "todo" note is not an excuse to leave bad code behind.
 
