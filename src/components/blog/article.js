@@ -28,8 +28,12 @@ const useStyles = makeStyles(theme => ({
     lineHeight: "1.65",
     textAlign: "justify",
 
+    "& h3": {
+      paddingTop: theme.spacing(4),
+    },
+
     // custom styles for code snippets
-    "& pre[class*='language-']": {
+    "& pre[class*='language-'], & p > code": {
       fontSize: "1rem",
       background: theme.colors.background,
     },
