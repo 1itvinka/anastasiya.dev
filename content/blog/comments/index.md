@@ -1,11 +1,13 @@
 ---
-title: Comments in Clean JavaScript Code
+title: "Clean JavaScript Code: Comments"
 date: "2020-07-05T08:00:21+00:00"
-updatedOnDate: "2020-07-05T12:23:27+00:00"
+updatedOnDate: "2020-07-06T10:57:36+00:00"
 image: img.jpg
 ---
 
 This is a part of the series [My Principles For Writing Clean JavaScript Code](https://anastasiya.dev/clean-js-code/)
+
+All of the principles below are not language specific, although I use JavaScript for the code examples.
 
 ### Introduction
 
