@@ -158,4 +158,4 @@ const firstName = "Anastasiya"
 
 ### Conclusion
 
-Names should reveal intent, should be easy to read and discuss, should be searchable, and shouldn't be confusing and misleading. Quite simple, right? Not always. But that's super important to do it right.
+Names should reveal intent, should be easy to read and discuss, should be searchable, and shouldn't be confusing and misleading. Quite simple, right? Not always. But that's super important to do it properly.
