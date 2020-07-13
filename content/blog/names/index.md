@@ -91,8 +91,9 @@ addMonthToDate(1, date)
 Bad:
 
 ```javascript
-getActiveAccount()
-getActiveAccountInfo()
+getActiveUser()
+getActiveUsers()
+getActiveUserInfo()
 ```
 
 **6. Avoid Mental Mapping**
@@ -128,7 +129,7 @@ locations.forEach(location => {
 })
 ```
 
-**6. Don't use lower-case `L` or uppercase `o` in names**
+**6. Don't use lower-case "L" or uppercase "o" in names**
 
 They can be easily confused with one and zero, respectively. Hope it's a very obvious rule.
 
@@ -141,7 +142,7 @@ const O = 0
 
 **7. Avoid noise words**
 
-Never use `variable` in a variable name. It, at best, just adds noise. Quite often it can lie and mislead.
+For example, never use "variable" in a variable name. At best, it just adds noise. Quite often it can lie and mislead.
 
 Bad:
 
