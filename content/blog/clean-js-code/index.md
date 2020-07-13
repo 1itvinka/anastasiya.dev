@@ -12,7 +12,7 @@ Most of the following principles are not language-specific. But some of them wil
 I don't like long files so I'll split the topic into a number of small posts. I plan to explore the following themes:
 
 [Part 0: Comments](https://anastasiya.dev/comments/)  
-Part 1: Names  
+[Part 1: Names](https://anastasiya.dev/names/)  
 Part 2: Variables  
 Part 3: Functions  
 Part 4: Classes  

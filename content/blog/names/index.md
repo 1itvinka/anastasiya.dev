@@ -13,11 +13,11 @@ In many examples I use the code from [clean-code-javascript](https://github.com/
 
 ### Introduction
 
-Choosing a good name can take time and effort. But it's totally worth it as proper names make it much easier to maintain code. If a name requires a comment - it's a bad name.
+Choosing a good name can take time and effort. But it's totally worth it. Proper names make it much easier to maintain code. If a name requires a comment - it's a bad name.
 
 ### Main Principles
 
-**1. Use meaningful and pronounceable names**
+#### 1. Use meaningful and pronounceable names
 
 Bad:
 
@@ -31,7 +31,7 @@ Good:
 const currentDate = moment().format("YYYY/MM/DD")
 ```
 
-**2. Use Searchable Names**
+#### 2. Use Searchable Names
 
 Bad:
 
@@ -45,7 +45,7 @@ Good:
 const firstName = "Anastasiya"
 ```
 
-**3. Name constants that are meaningful for understanding the code**
+#### 3. Name constants that are meaningful for understanding the code
 
 Bad:
 
@@ -60,7 +60,7 @@ const MILLISECONDS_IN_A_DAY = 86_400_000
 setTimeout(blastOff, MILLISECONDS_IN_A_DAY)
 ```
 
-**4. Function names should say what they do**
+#### 4. Function names should say what they do
 
 Bad:
 
@@ -86,7 +86,7 @@ const date = new Date()
 addMonthToDate(1, date)
 ```
 
-**5. Don't use names which vary in small ways.**
+#### 5. Don't use names which vary in small ways.
 
 Bad:
 
@@ -96,7 +96,7 @@ getActiveUsers()
 getActiveUserInfo()
 ```
 
-**6. Avoid Mental Mapping**
+#### 6. Avoid Mental Mapping
 
 In most cases a single letter name is a poor choice. The only exception is a loop counter if its scope is very small.
 
@@ -129,7 +129,7 @@ locations.forEach(location => {
 })
 ```
 
-**6. Don't use lower-case "L" or uppercase "o" in names**
+#### 7. Don't use lower-case "L" or uppercase "o" in names
 
 They can be easily confused with one and zero, respectively. Hope it's a very obvious rule.
 
@@ -140,14 +140,14 @@ const l = 1
 const O = 0
 ```
 
-**7. Avoid noise words**
+#### 8. Avoid noise words
 
 For example, never use "variable" in a variable name. At best, it just adds noise. Quite often it can lie and mislead.
 
 Bad:
 
 ```javascript
-const firstNameString = "Anastasiya"
+const nameString = "Anastasiya"
 ```
 
 Good:

@@ -32,6 +32,14 @@ const useStyles = makeStyles(theme => ({
       paddingTop: theme.spacing(4),
     },
 
+    "& h4": {
+      paddingTop: theme.spacing(3),
+    },
+
+    "& h3 + h4": {
+      paddingTop: 0,
+    },
+
     // custom styles for code snippets
     "& pre[class*='language-'], & p > code": {
       fontSize: "1rem",
