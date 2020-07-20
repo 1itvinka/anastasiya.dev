@@ -5,7 +5,7 @@ updatedOnDate: "2020-07-13T15:14:46+00:00"
 image: img.jpg
 ---
 
-This is a part of the series [My Principles For Writing Clean JavaScript Code](https://anastasiya.dev/clean-js-code/)
+This is a part of the series [My Principles For Writing Clean JavaScript Code](https://anastasiya.dev/clean-js-code/).
 
 Most of the principles below are not language specific, although I use JavaScript for the code examples.
 

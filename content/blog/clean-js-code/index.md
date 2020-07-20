@@ -19,7 +19,7 @@ Part 4: Classes
 Part 5: Objects and Data Structures  
 Part 6: Concurrency  
 Part 7: SOLID  
-Part 8: DRY  
+[Part 8: DRY](https://anastasiya.dev/dry/)  
 Part 9: Inheritance Tax  
 Part 10: Error Handling  
 Part 11: Testing  
