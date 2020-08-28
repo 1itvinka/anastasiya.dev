@@ -278,7 +278,7 @@ Didn’t find anything new, but that's probably only because I've already read s
 
 ### Books for parents in Russian:
 
-Can't recommend all of the following books enough! It's a shame I haven't found them in english translation. If you're a parent and you know Russian - the first 2 books are absolutely must read!
+It's a shame I haven't found the following books in english translation. If you're a parent and you know Russian, all of the following books are highly recomended. And the first 2 are absolutely must-read!
 
 <section class="book">
 
