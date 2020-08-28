@@ -52,6 +52,33 @@ const useStyles = makeStyles(theme => ({
 
     "& li": {
       marginBottom: theme.spacing(2),
+
+      "&:last-child": {
+        marginBottom: 0,
+      },
+    },
+
+    "& .book": {
+      "& img": {
+        width: "180px",
+        paddingBottom: theme.spacing(1),
+        float: "left",
+        paddingRight: theme.spacing(3),
+      },
+
+      "&::after": {
+        content: "''",
+        clear: "both",
+        display: "table",
+      },
+
+      "& h4": {
+        padding: 0,
+      },
+
+      "& ul": {
+        overflow: "hidden",
+      },
     },
   },
 }))
