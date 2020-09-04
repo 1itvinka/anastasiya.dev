@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Anastasiya`,
-    description: `Personal webside of Anastasiya Tyshkavets`,
+    description: `Personal website of Anastasiya Tyshkavets`,
     author: `@1itvinka`,
     siteUrl: `https://anastasiya.dev/`,
   },
