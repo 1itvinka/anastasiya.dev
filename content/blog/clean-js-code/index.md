@@ -14,7 +14,7 @@ I don't like long files so I'll split the topic into a number of small posts. I 
 [Part 0: Comments](https://anastasiya.dev/comments/)  
 [Part 1: Names](https://anastasiya.dev/names/)  
 Part 2: Variables  
-Part 3: Functions  
+[Part 3: Functions](https://anastasiya.dev/functions/)  
 Part 4: Classes  
 Part 5: Objects and Data Structures  
 Part 6: Concurrency  
