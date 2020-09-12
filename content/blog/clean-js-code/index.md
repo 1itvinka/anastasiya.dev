@@ -23,7 +23,7 @@ Part 7: SOLID
 Part 9: Inheritance Tax  
 Part 10: Error Handling  
 Part 11: Testing  
-Part 12: Formatting  
+[Part 12: Formatting](https://anastasiya.dev/formatting/)
 Part 13: Tools  
 Part 14: Philosophy and Quotes
 
