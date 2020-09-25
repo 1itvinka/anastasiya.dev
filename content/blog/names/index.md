@@ -7,9 +7,9 @@ image: img.jpg
 
 This is a part of the series [My Principles For Writing Clean JavaScript Code](https://anastasiya.dev/clean-js-code/).
 
-Most of the principles below are not language specific, although I use JavaScript for the code examples.
+Most of the principles below are not language-specific, although I use JavaScript for the code examples.
 
-In many examples I use the code from [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript). It's a fantastic resource for learning how to write clean code in JavaScript. Highly recommended!
+In many examples, I use the code from [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript). It's a fantastic resource for learning how to write clean code in JavaScript — highly recommended!
 
 ### Introduction
 
@@ -98,7 +98,7 @@ getActiveUserInfo()
 
 #### 6. Avoid Mental Mapping
 
-In most cases a single letter name is a poor choice. The only exception is a loop counter if its scope is very small.
+In most cases, a single letter name is a poor choice. The only exception is a loop counter if its scope is very small.
 
 Bad:
 
@@ -131,7 +131,7 @@ locations.forEach(location => {
 
 #### 7. Don't use lower-case "L" or uppercase "o" in names
 
-They can be easily confused with one and zero, respectively. Hope it's a very obvious rule.
+They can be easily confused with one and zero, respectively.
 
 Bad:
 
@@ -142,7 +142,7 @@ const O = 0
 
 #### 8. Avoid noise words
 
-For example, never use "variable" in a variable name. At best, it just adds noise. Quite often it can lie and mislead.
+For example, never use "variable" in a variable name. At best, it just adds noise. Quite often, it can lie and mislead.
 
 Bad:
 
@@ -158,4 +158,4 @@ const firstName = "Anastasiya"
 
 ### Conclusion
 
-Names should reveal intent, should be easy to read and discuss, should be searchable, and shouldn't be confusing and misleading. Quite simple, right? Not always. But that's super important to do it properly.
+Names should reveal intent, be easy to read and discuss, be searchable, and shouldn't be confusing and misleading. Quite simple, right? Not always. But that's super important to do it properly.

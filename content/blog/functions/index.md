@@ -7,13 +7,13 @@ image: img.jpg
 
 This is a part of the series [My Principles For Writing Clean JavaScript Code](https://anastasiya.dev/clean-js-code/).
 
-In many examples below I use the code from [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript). It’s a fantastic resource for learning how to write clean code in JavaScript. Highly recommended!
+In many examples below, I use the code from [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript). It's a fantastic resource for learning how to write clean code in JavaScript — highly recommended!
 
 ### Main Principles
 
 #### 1. A function should do one thing, and only one thing
 
-I can't emphasise enough the importance of this principle. If you follow this rule, the world would be a happier place. :)
+I can't emphasize enough the importance of this principle. If you follow this rule, the world would be a happier place. :)
 
 Bad:
 
@@ -43,9 +43,9 @@ function isActiveClient(client) {
 
 #### 2. Use up to 2 parameters
 
-The ideal number of arguments for a function is 0. And functions with more than 2 parameters are hard to test, hard to read, and hard to change.
+The ideal number of arguments for a function is 0. And functions with more than two parameters are hard to test, hard to read, and hard to change.
 
-If you absolutely need more than 2 arguments, at least use an object and the destructuring syntax.
+If you absolutely need more than two arguments, at least use an object and the destructuring syntax.
 
 Bad:
 
@@ -102,7 +102,7 @@ function createTempFile(name) {
 
 #### 4. The blocks within statements like "if", "else", "while" should be one line long.
 
-In most cases that line should be a function call.
+In most cases, that line should be a function call.
 
 The benefits of doing this:
 

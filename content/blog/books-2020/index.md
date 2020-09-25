@@ -5,9 +5,9 @@ updatedOnDate: "2020-08-28T15:25:45+00:00"
 image: img.jpg
 ---
 
-Although it's not even close until the end of the year, I've decided to start to list all the great books I've finished in 2020 so far. It's already quite overwhelming so if I wait until the end of the year I'll probably never do it. 🤷‍♀️
+Although it's not even close until the end of the year, I've decided to start to list all the great books I've finished in 2020 so far. It's already quite overwhelming, so if I wait until the end of the year, I'll probably never do it. 🤷‍♀️
 
-I LOVE audiobooks, and most of the books below I've listened while doing something that doesn't require much concentration like walking or doing chores. It's a great way to get the main ideas and to understand if it worth to spend time and to read something with full concentration. Most of the books in this list are definitely worth it!
+I LOVE audiobooks. And most of the books below I've listened to while doing something that doesn't require much concentration like walking or doing chores. It's a great way to get the main ideas and understand if it worth reading something with full attention. Most of the books on this list are definitely worth it!
 
 ## Books for everyone
 
@@ -17,7 +17,7 @@ I LOVE audiobooks, and most of the books below I've listened while doing somethi
 
 ![Book Cover](https://m.media-amazon.com/images/I/51PAtnlvW1L._SL500_.jpg)
 
-This book shows how much the behaviour of individuals, organisations and societies is driven by habits. Can't recommend the book enough! I'll definitely reread it again.
+This book shows how habits drive the behavior of individuals, organizations, and societies. I can't recommend the book enough! I'll definitely reread it in the future.
 
 </section>
 
@@ -27,9 +27,9 @@ This book shows how much the behaviour of individuals, organisations and societi
 
 ![Book Cover](https://m.media-amazon.com/images/I/51cA0gImCZL._SL500_.jpg)
 
-The book is full with great ideas like:
+The book is full of great ideas like:
 
-- goals are for losers, systems are for winners;
+- goals are for losers, and systems are for winners;
 - a combination of skills at which you are "good enough" can make you really valuable.
 
 And many more. I'm definitely going to reread soon!
@@ -56,7 +56,7 @@ My presentations and talks will never be the same again! The book is full of tip
 
 My top picks:
 
-- be aware of ‘the curse of knowledge’;
+- be aware of "the curse of knowledge";
 - the most memorable messages are in the form of a story.
 
 Although the book could be much shorter, I've enjoyed it from start to finish.
@@ -79,7 +79,7 @@ Loved it! It's a book that every leader should read. Full of stories, direct and
 
 ![Book Cover](https://m.media-amazon.com/images/I/51BydRgJ2CL._SL500_.jpg)
 
-The mind model described in the book is absolutely brilliant. It says that within our mind we have three powers: the human, the chimp, and the computer. The author explains how to manage them so that both your chimp and your human are happy, and the computer helps you, not vice versa. Many good points, but the book could be much shorter.
+The mind model described in the book is absolutely brilliant. It says that within our mind, we have three powers: the human, the chimp, and the computer. The author explains how to manage them so that both your chimp and your human are happy, and the computer helps you, not vice versa. Many good points, but the book could be much shorter.
 
 </section>
 
@@ -89,7 +89,7 @@ The mind model described in the book is absolutely brilliant. It says that withi
 
 ![Book Cover](https://m.media-amazon.com/images/I/41ssxrhLwCL._SL500_.jpg)
 
-Although the book was super dull at the beginning I'm glad I kept listening as the second half was definitely worth it!
+Although the book was super dull at the beginning, I'm glad I kept listening as the second half was definitely worth it!
 
 </section>
 
@@ -99,7 +99,7 @@ Although the book was super dull at the beginning I'm glad I kept listening as t
 
 ![Book Cover](https://m.media-amazon.com/images/I/51gQ7pHF-zL._SL500_.jpg)
 
-The book is full of great tips and practical advice about how to help you make time for what is actually important to you. Highly recommended to anyone who is glued to his smartphone. 😉
+The book is full of great tips and practical advice about helping you make time for what is actually important to you — highly recommended to anyone glued to his smartphone. 😉
 
 </section>
 
@@ -109,7 +109,7 @@ The book is full of great tips and practical advice about how to help you make t
 
 ![Book Cover](https://m.media-amazon.com/images/I/519lKuoLN-L.jpg)
 
-Any mathematician or/and a programmer will absolutely love this book! Very well written and the concepts are useful in everyday life. Added to my "must reread" list.
+Any mathematician or/and a programmer will absolutely love this book! Very well written, and the concepts are useful in everyday life. Added to my "must reread" list.
 
 </section>
 
@@ -119,7 +119,7 @@ Any mathematician or/and a programmer will absolutely love this book! Very well 
 
 ![Book Cover](https://m.media-amazon.com/images/I/51xVXCYXeGL._SL500_.jpg)
 
-Although the audio version is quite hard to follow, this book is packed with great tips and ideas. Many of the tips in the "Health" section sound too extreme for me, but I've found lots of useful ideas in the "Wealth" and "Wise" sections. The top tip for me was about hanging upside down. Not sure if it helps to sleep better, as it's stated in the book, but it saves my back after hours of lifting, holding and carrying my baby.
+Although the audio version is quite hard to follow, this book is packed with great tips and ideas. Many of the tips in the "Health" section sound too extreme for me, but I've found lots of useful ideas in the "Wealth" and "Wise" sections. The top tip for me was about hanging upside down. I'm not sure if it helps to sleep better, as it's stated in the book, but it saves my back after hours of lifting, holding, and carrying my baby.
 
 </section>
 
@@ -129,7 +129,7 @@ Although the audio version is quite hard to follow, this book is packed with gre
 
 ![Book Cover](https://m.media-amazon.com/images/I/51PFdz2QfFL._SL500_.jpg)
 
-I wish I'd read this book in my early 20s. It's an invaluable guide for a complete novice like me. The book is focused on the UK which is a huge bonus, as I've moved to this beautiful country not long ago. For example, I didn't know about ISAs before I read this book. 😭 Must read again!
+I wish I'd read this book in my early 20s. It's an invaluable guide for a complete novice like me. The book is focused on the UK, which is a huge bonus, as I've moved to this beautiful country not long ago. For example, I didn't know about ISAs before I read this book. 😭 Must read again!
 
 </section>
 
@@ -139,7 +139,7 @@ I wish I'd read this book in my early 20s. It's an invaluable guide for a comple
 
 ![Book Cover](https://m.media-amazon.com/images/I/414UzZxaSFL._SL500_.jpg)
 
-Although the book is very US focused, most principles are universal. I'll definitely reread it if I ever move to the USA.
+Although the book is very US-focused, most principles are universal. I'll definitely reread it if I ever move to the USA.
 
 </section>
 
@@ -149,9 +149,9 @@ Although the book is very US focused, most principles are universal. I'll defini
 
 ![Book Cover](https://m.media-amazon.com/images/I/41O5blDy52L._SL500_.jpg)
 
-I'm still shocked that this happened in real life. How did it all get so far? A perfect illustration of how quickly a culture of lie, fear and cult can spread and rise into power. But it never lasts forever.
+I'm still shocked that this happened in real life. How did it all get so far? A perfect illustration of how quickly a culture of lie, fear, and cult can spread and rise into power. But it never lasts forever.
 
-This book makes you question the healthcare systems and the regulatory institutions even more. Now I will definitely make sure to double check any suspicious blood test results.
+This book makes you question the healthcare systems and the regulatory institutions even more. Now I will definitely make sure to double-check any suspicious blood test results.
 
 The book made me think about my professional life as well:
 
@@ -168,7 +168,7 @@ The book made me think about my professional life as well:
 
 ![Book Cover](https://m.media-amazon.com/images/I/31oTRCUjznL._SL500_.jpg)
 
-Absolutely love the concept. The most useful parts for me were about organising a kitchen and about folding stuff.
+I absolutely love the concept. The most insightful parts for me were about organizing a kitchen and about folding stuff.
 
 </section>
 
@@ -178,7 +178,7 @@ Absolutely love the concept. The most useful parts for me were about organising 
 
 ![Book Cover](https://m.media-amazon.com/images/I/51-gQGdYHCL._SL500_.jpg)
 
-Gobbled up the book in 2 days. I always thought that running is not my thing, even though I love to be active and I love games like tennis where you need to run a lot. But after reading this book I was inspired to give it another try.
+Gobbled up the book in 2 days. I always thought running is not my thing, even though I love to be active, and I love games like tennis, where you need to run a lot. But after reading this book, I was inspired to give it another try.
 
 </section>
 
@@ -198,7 +198,7 @@ Must read for everyone. I'll try to reread this book every year.
 
 ![Book Cover](https://m.media-amazon.com/images/I/511nxjb8PCL._SL500_.jpg)
 
-Full of great stories and very well-written, but I've already forgot most of the principles. 🙄 Must read again then! And what is more important, that would be fun to test it on actual "ultralearning projects".
+Full of great stories and very well-written, but I've already forgotten most of the principles. 🙄 Must read again then! And what is more important, that would be fun to test it on actual "ultralearning projects".
 
 </section>
 
@@ -208,7 +208,7 @@ Full of great stories and very well-written, but I've already forgot most of the
 
 ![Book Cover](https://m.media-amazon.com/images/I/51cxEs66USL._SL500_.jpg)
 
-It's a great book for entrepreneurs or business owners. I'll definitely reread it if I start my own company or a passive income project.
+It's an excellent book for entrepreneurs or business owners. I'll definitely reread it if I start my own company or a passive income project.
 
 </section>
 
@@ -218,13 +218,13 @@ It's a great book for entrepreneurs or business owners. I'll definitely reread i
 
 ![Book Cover](https://m.media-amazon.com/images/I/41ikuB0l8qL._SL500_.jpg)
 
-Good read overall, but as for me there's too much advertising for Microsoft.
+Good read overall, but as for me, there's too much advertising for Microsoft.
 
 </section>
 
 ## Books for parents:
 
-Although physically exhausting my 1st year of being a mum was pretty straightforward: just keep that baby happy, full and clean. But as my son suddenly became an active toddler I've realised that I had no idea how to react to tantrums, how strict I should be, and how to maximise my chances of raising a happy, confident, independent and kind individual. So I've done what all geeks do when they face an area of incompetence - I've stuffed my face with books on this topic. 🤪 Here're the best I've read so far:
+Although physically exhausting, my 1st year of being a mum was pretty straightforward: just keep that baby happy, full, and clean. But as my son suddenly became an active toddler, I've realized that I had no idea how to react to tantrums, how strict I should be, and how to maximize my chances of raising a happy, confident, independent, and kind individual. So I've done what all geeks do when they face an area of incompetence - I've stuffed my face with books on this topic. 🤪 Here're the best I've read so far:
 
 <section class="book">
 
@@ -232,7 +232,7 @@ Although physically exhausting my 1st year of being a mum was pretty straightfor
 
 ![Book Cover](https://m.media-amazon.com/images/I/6137ZXV2sxL._SL500_.jpg)
 
-Such a useful guide full of brilliant tips! I'll definitely reread it when my son is 2.
+Such a useful guide that's full of brilliant tips! I'll definitely reread it when my son is 2.
 
 </section>
 
@@ -242,7 +242,7 @@ Such a useful guide full of brilliant tips! I'll definitely reread it when my so
 
 ![Book Cover](https://m.media-amazon.com/images/I/51SpxSOx1TL._SL500_.jpg)
 
-I wish I'd read this book almost 2 years earlier! At least I would be much calmer and felt less guilty that I've followed my instincts and not all the well meaning advice about teaching your baby to sleep "properly". I've just started to implement the principles from this book - we'll see if it helps. But even if not, it's a relief to hear that it's absolutely normal for a small child to wake up so often, and to demand my presence during his naps and at night.
+I wish I'd read this book almost two years earlier! At least I would be much calmer and felt less guilty that I've followed my instincts and not all the well-meaning advice about teaching your baby to sleep "properly". I've just started to implement the principles from this book - we'll see if it helps. But even if not, it's a relief to hear that it's absolutely normal for a small child to wake up so often, and to demand my presence during his naps and at night.
 
 </section>
 
@@ -252,7 +252,7 @@ I wish I'd read this book almost 2 years earlier! At least I would be much calme
 
 ![Book Cover](https://m.media-amazon.com/images/I/412BjWQUQwL._SL500_.jpg)
 
-Can't recommend it enough. It was the first parenting book I've read. And it absolutely changed my view on this topic.
+I can't recommend it enough. It was the first parenting book I've read. And it absolutely changed my view on this topic.
 
 </section>
 
@@ -272,13 +272,13 @@ Although the book is very repetitive, which is a bit annoying, the tips are incr
 
 ![Book Cover](https://m.media-amazon.com/images/I/51z+Grj8LsL._SL500_.jpg)
 
-Didn’t find anything new, but that's probably only because I've already read so many books on parenting. It's a great book and easy to read though!
+I didn't find anything new here, but that's probably only because I've already read so many books on parenting. It's a great book and easy to read, though!
 
 </section>
 
 ### Books for parents in Russian:
 
-It's a shame I haven't found the following books in english translation. If you're a parent and you know Russian, all of the following books are highly recomended. And the first 2 are absolutely must-read!
+It's a shame I haven't found the following books in English translation. If you're a parent and you know Russian, all of the following books are highly recommended. And the first 2 are absolutely must-read!
 
 <section class="book">
 
@@ -344,4 +344,4 @@ It's a shame I haven't found the following books in english translation. If you'
 
 </section>
 
-The year is not over so I hope to update this list many more times. Please [tweet at me](https://twitter.com/1itvinka) your recommendations!
+The year is not over, so I hope to update this list many more times. Please [tweet at me](https://twitter.com/1itvinka) your recommendations!
