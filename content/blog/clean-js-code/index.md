@@ -5,7 +5,7 @@ updatedOnDate: "2020-07-01T13:46:42+00:00"
 image: img.jpg
 ---
 
-Wow! I don't even know where to start. This topic is HUGE! Whole books are written on the subject. So my blog posts certainly won't cover everything. But for my future reference, I'll try to formalize some of the best practices for producing **readable** JavaScript code that is **easy to change** and **maintain**.
+Wow! I don't even know where to start. This topic is HUGE! Whole books are written on the subject. So my blog posts certainly won't cover everything. But for my future reference, I'll try to formalise some of the best practices for producing **readable** JavaScript code that is **easy to change** and **maintain**.
 
 Most of the following principles are not language-specific. But some of them will be relevant only for JavaScript. Many of the guidelines are not universally agreed upon, and some of them are even quite controversial. And of course, it's important to remember that blindly applying even the best practices can do more harm than good.
 

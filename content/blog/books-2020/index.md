@@ -17,7 +17,7 @@ I LOVE audiobooks. And most of the books below I've listened to while doing some
 
 ![Book Cover](https://m.media-amazon.com/images/I/51PAtnlvW1L._SL500_.jpg)
 
-This book shows how habits drive the behavior of individuals, organizations, and societies. I can't recommend the book enough! I'll definitely reread it in the future.
+This book shows how habits drive the behaviour of individuals, organisations, and societies. I can't recommend the book enough! I'll definitely reread it in the future.
 
 </section>
 
@@ -42,7 +42,7 @@ And many more. I'm definitely going to reread soon!
 
 ![Book Cover](https://m.media-amazon.com/images/I/51TSWCruAHL._SL500_.jpg)
 
-This book is the first in my list "to reread with full concentration while taking notes". The techniques seem to be really effective, although I haven't tried all of them yet.
+This book is the first in my list "to reread with full concentration while taking notes". The techniques seem to be really useful, although I haven't tried all of them yet.
 
 </section>
 
@@ -168,7 +168,7 @@ The book made me think about my professional life as well:
 
 ![Book Cover](https://m.media-amazon.com/images/I/31oTRCUjznL._SL500_.jpg)
 
-I absolutely love the concept. The most insightful parts for me were about organizing a kitchen and about folding stuff.
+I absolutely love the concept. The most insightful parts for me were about organising a kitchen and about folding stuff.
 
 </section>
 
@@ -224,7 +224,7 @@ Good read overall, but as for me, there's too much advertising for Microsoft.
 
 ## Books for parents:
 
-Although physically exhausting, my 1st year of being a mum was pretty straightforward: just keep that baby happy, full, and clean. But as my son suddenly became an active toddler, I've realized that I had no idea how to react to tantrums, how strict I should be, and how to maximize my chances of raising a happy, confident, independent, and kind individual. So I've done what all geeks do when they face an area of incompetence - I've stuffed my face with books on this topic. 🤪 Here're the best I've read so far:
+Although physically exhausting, my 1st year of being a mum was pretty straightforward: just keep that baby happy, full, and clean. But as my son suddenly became an active toddler, I've realised that I had no idea how to react to tantrums, how strict I should be, and how to maximise my chances of raising a happy, confident, independent, and kind individual. So I've done what all geeks do when they face an area of incompetence - I've stuffed my face with books on this topic. 🤪 Here're the best I've read so far:
 
 <section class="book">
 

@@ -5,7 +5,7 @@ updatedOnDate: "2020-09-10T06:06:21+00:00"
 image: img.jpg
 ---
 
-This is a part of the series [My Principles For Writing Clean JavaScript Code](https://anastasiya.dev/clean-js-code/).
+This article is a part of the series [My Principles For Writing Clean JavaScript Code](https://anastasiya.dev/clean-js-code/).
 
 In many examples below, I use the code from [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript). It's a fantastic resource for learning how to write clean code in JavaScript — highly recommended!
 
@@ -13,7 +13,7 @@ In many examples below, I use the code from [clean-code-javascript](https://gith
 
 #### 1. A function should do one thing, and only one thing
 
-I can't emphasize enough the importance of this principle. If you follow this rule, the world would be a happier place. :)
+I can't emphasise enough the importance of this principle. If you follow this rule, the world would be a happier place. :)
 
 Bad:
 

@@ -5,7 +5,7 @@ updatedOnDate: "2020-07-06T10:57:36+00:00"
 image: img.jpg
 ---
 
-This is a part of the series [My Principles For Writing Clean JavaScript Code](https://anastasiya.dev/clean-js-code/).
+This article is a part of the series [My Principles For Writing Clean JavaScript Code](https://anastasiya.dev/clean-js-code/).
 
 All of the principles below are not language-specific, although I use JavaScript for the code examples.
 
@@ -19,7 +19,7 @@ Comments can lie and mislead. They create noise, and they can clutter your code.
 
 **1. Comments to make up for bad code**
 
-It happens when we write some code, and we know it's confusing. But it's better to spend time cleaning the mess than to write comments that explain it.
+It happens when we write some code, and we know it's confusing. But that's better to spend time cleaning the mess than to write comments that explain it.
 
 **2. Comments that rephrase what is already expressed in the code**
 
@@ -30,7 +30,7 @@ For example:
 function showMessage() {
   /*
    * Declare variable 'user';
-   * create and initialize a new Object;
+   * create and initialise a new Object;
    * assign reference to it to 'user'
    */
   const user = {

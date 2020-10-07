@@ -24,7 +24,7 @@ Here's why:
 
 So after some investigation, it became clear that I need to go for a static site generator like 11ty, Next.js, or Gatsby.
 
-I've decided to pick [Gatsby](https://www.gatsbyjs.org/) because of it's plugin ecosystem and the community. Also, the ability to handle images is a huge selling point for Gatsby!
+I've decided to pick [Gatsby](https://www.gatsbyjs.org/) because of its plugin ecosystem and the community. Also, the ability to handle images is a huge selling point for Gatsby!
 
 I've done all the styling using [Material-UI](https://material-ui.com/). I absolutely love this styling solution, and the MUI components really speed up design and development.
 
@@ -32,4 +32,4 @@ I'm hosting the website on [Netlify](https://www.netlify.com/). Their auto-deplo
 
 Overall I'm pretty happy with the result. And even if I abandon blogging after a while, I've learned A LOT during the development process.
 
-All the code to the website is on [github](https://github.com/1itvinka/anastasiya.dev). That's my first attempt to use Gatsby, and that's my first published React project. So I would really appreciate your code reviews, fixes, or comments. I also really hope that the codebase will be useful for someone else.
+All the code to the website is on [github](https://github.com/1itvinka/anastasiya.dev). That's my first attempt to use Gatsby, and that's my first published React project. So I would appreciate your code reviews, fixes, or comments. I also really hope that the codebase will be useful for someone else.

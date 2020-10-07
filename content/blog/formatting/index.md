@@ -5,7 +5,7 @@ updatedOnDate: "2020-09-12T05:16:34+00:00"
 image: img.jpg
 ---
 
-This is a part of the series [My Principles For Writing Clean JavaScript Code](https://anastasiya.dev/clean-js-code/).
+This article is a part of the series [My Principles For Writing Clean JavaScript Code](https://anastasiya.dev/clean-js-code/).
 
 In many examples below, I use the code from [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript). It's a fantastic resource for learning how to write clean code in JavaScript — highly recommended!
 

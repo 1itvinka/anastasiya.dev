@@ -5,17 +5,17 @@ updatedOnDate: "2020-09-25T13:37:37+00:00"
 image: img.jpg
 ---
 
-A resume is a marketing document. Its goal is to sell you as a professional. It should show that you can code, that you're smart, and that you care about your craft. Here's a check-list I've created for myself:
+A resume is a marketing document. Its goal is to sell you as a professional. It should show that you can code, that you're smart and that you care about your craft. Here's a check-list that I've created for myself. I'm focused on the UK job market right now, and it might be different from the job markets of other countries. But most of the tips should be universal.
 
 ### 1. Target Your Resume to Each Job Description
 
-If you apply for ten jobs, you should send ten different resumes, each targeted to reflect the job description. You must only tell the truth, of course, but that's important to prioritize what will land you a job interview over what will not.
+If you apply for ten jobs, you should send ten different resumes, each targeted to reflect the job description. You must only tell the truth, of course, but that's important to prioritise what will land you a job interview over what will not.
 
 It could be useful to have a detailed "base" resume, which is the foundation of all the custom ones.
 
 ### 2. Keep It To One or Two Pages
 
-A lengthy resume is not a reflection of having lots of experience - it's a reflection of not prioritizing what's important. Most people don't like to read long texts. And some recruiters just refuse to read resumes that are more than two pages long.
+A lengthy resume is not a reflection of having lots of experience — it's a reflection of not prioritising what's important. Most people don't like to read long texts. And some recruiters refuse to read resumes that are more than two pages long.
 
 You can always create an online portfolio with lots of details to supplement your resume.
 
@@ -29,7 +29,7 @@ List your contact details first, followed by your relevant work experience. Work
 
 ### 5. Choose Your Keywords
 
-Most of the companies nowadays use computerized resume scanners of some kind. And if you don't optimize your resume to include the keywords from the job description, such scanners will probably reject your application before it even makes it into human hands.
+Most of the companies nowadays use computerised resume scanners of some kind. And if you don't optimise your resume to include the keywords from the job description, such scanners will probably reject your application before it even makes it into human hands.
 
 ### 6. Use Productivity Words, Avoid Empty Phrases
 
@@ -37,7 +37,7 @@ Use words like "coded", "implemented", "developed", "delivered", "launched", etc
 
 ### 7. Show The Measurable Impact You've Made
 
-Like "boosted mobile traffic by 45% with the redesign". To be honest, I struggle with this tip the most. Such details are very easy to forget if you're not thinking about your resume while working on an exciting project for many years. I'll definitely keep it in mind in the future and make notes of achievements like this.
+Like "boosted mobile traffic by 45% with the redesign". I struggle with this tip the most. Such details are easy to forget if you're not thinking about your resume while working on an exciting project for many years. I'll keep it in mind in the future and make notes of achievements like this.
 
 ### 8. Don't Include A Photo
 
@@ -45,15 +45,15 @@ As well as age, marital status, nationality, etc. - anything that can potentiall
 
 ### 9. Use Simple Design and Consistent Formatting
 
-Your resume will probably go through a bunch of automated tools and computerized resume scanners. To be safe, use only ASCII characters, don't format your resume with tables or a certain number of spaces to align the items. Otherwise, your resume might look like an unreadable mess when it makes it into human hands.
+Your resume will probably go through a bunch of automated tools and computerised resume scanners. To be safe, use only ASCII characters, don't format your resume with tables or a certain number of spaces to align the items. Otherwise, your resume might look like an unreadable mess when it makes it into human hands.
 
 At the same time, hey, you're a frontend developer! That's your job to make the content look nice, be well-spaced, readable, and breathable. And it might help if your resume has a fun, creative design that stands out.
 
-### 10. Spell Check and Ask Someone to Proofread
+### 10. Spell Check and Ask Someone to Proof-read
 
 Spell check, grammar check, and style check!
 
-A good programmer should be detail-oriented, and a typo is a huge red flag. Some people will throw out your resume if you're misspelling things. So get at least one native speaker to proofread your resume.
+A good programmer should be detail-oriented, and a typo is a huge red flag. Some people will throw out your resume if you're misspelling things. So get at least one native speaker to proof-read your resume.
 
 ### Useful Articles
 
