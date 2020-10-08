@@ -13,7 +13,7 @@ If you apply for ten jobs, you should send ten different resumes, each targeted 
 
 It could be useful to have a detailed "base" resume, which is the foundation of all the custom ones.
 
-### 2. Keep It To One or Two Pages
+### 2. Keep It to One or Two Pages
 
 A lengthy resume is not a reflection of having lots of experience — it's a reflection of not prioritising what's important. Most people don't like to read long texts. And some recruiters refuse to read resumes that are more than two pages long.
 
@@ -23,7 +23,7 @@ You can always create an online portfolio with lots of details to supplement you
 
 For example, don't include hobbies unless they're relevant to the job you're applying for. Such extra information won't make any difference during the initial screening anyway. And on the later stages of the hiring process, recruiters will probably find your social media profiles to get the idea of what makes you tick.
 
-### 4. Place The Most Important Information First
+### 4. Place the Most Important Information First
 
 List your contact details first, followed by your relevant work experience. Work experience is usually more valuable than formal or informal education.
 
@@ -35,11 +35,11 @@ Most of the companies nowadays use computerised resume scanners of some kind. An
 
 Use words like "coded", "implemented", "developed", "delivered", "launched", etc. Avoid words like "participated", "been a part of", as well as "dynamic", "self-motivated", "results-driven", "eager to learn", etc.
 
-### 7. Show The Measurable Impact You've Made
+### 7. Show the Measurable Impact You've Made
 
 Like "boosted mobile traffic by 45% with the redesign". I struggle with this tip the most. Such details are easy to forget if you're not thinking about your resume while working on an exciting project for many years. I'll keep it in mind in the future and make notes of achievements like this.
 
-### 8. Don't Include A Photo
+### 8. Don't Include a Photo
 
 As well as age, marital status, nationality, etc. - anything that can potentially create legal liabilities for the company. There's a risk that a resume with such information will go straight to a bin.
 
@@ -49,7 +49,7 @@ Your resume will probably go through a bunch of automated tools and computerised
 
 At the same time, hey, you're a frontend developer! That's your job to make the content look nice, be well-spaced, readable, and breathable. And it might help if your resume has a fun, creative design that stands out.
 
-### 10. Spell Check and Ask Someone to Proof-read
+### 10. Spell Check and Ask Someone to Proof-Read
 
 Spell check, grammar check, and style check!
 

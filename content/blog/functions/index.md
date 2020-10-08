@@ -111,7 +111,7 @@ The benefits of doing this:
 - it can help you to avoid redundant comments;
 - it's easier to test.
 
-#### 5. Avoid Side Effects
+#### 5. Avoid side effects
 
 A function has "side effects" if it promises to do one thing, but it also does other hidden things. Such code is very error-prone.
 

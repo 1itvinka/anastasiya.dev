@@ -15,7 +15,7 @@ My rule of thumb is to **use comments as little as possible**. Good code mostly 
 
 Comments can lie and mislead. They create noise, and they can clutter your code. So use them only if you fail to express yourself otherwise. Always choose to have a single source of truth: the code.
 
-### Common ways to clutter a codebase with comments:
+### Common Ways to Clutter a Codebase With Comments:
 
 **1. Comments to make up for bad code**
 
@@ -119,7 +119,7 @@ const data = useStaticQuery(graphql`
 
 If you think you need such comments, try to shorten your functions. And even if you can't do it, all the modern IDEs are great at highlighting this.
 
-### Sometimes, the comments are necessary.
+### Sometimes, the Comments Are Necessary.
 
 **1. Useful information that can't be expressed in code**
 

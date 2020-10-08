@@ -31,7 +31,7 @@ Good:
 const currentDate = moment().format("YYYY/MM/DD")
 ```
 
-#### 2. Use Searchable Names
+#### 2. Use searchable names
 
 Bad:
 
@@ -96,7 +96,7 @@ getActiveUsers()
 getActiveUserInfo()
 ```
 
-#### 6. Avoid Mental Mapping
+#### 6. Avoid mental mapping
 
 In most cases, a single letter name is a poor choice. The only exception is a loop counter if its scope is very small.
 

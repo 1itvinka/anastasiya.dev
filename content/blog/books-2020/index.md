@@ -9,7 +9,7 @@ Although it's not even close until the end of the year, I've decided to start to
 
 I LOVE audiobooks. And most of the books below I've listened to while doing something that doesn't require much concentration like walking or doing chores. It's a great way to get the main ideas and understand if it worth reading something with full attention. Most of the books on this list are definitely worth it!
 
-## Books for everyone
+## Books for Everyone
 
 <section class="book">
 
@@ -222,7 +222,7 @@ Good read overall, but as for me, there's too much advertising for Microsoft.
 
 </section>
 
-## Books for parents:
+## Books for Parents:
 
 Although physically exhausting, my 1st year of being a mum was pretty straightforward: just keep that baby happy, full, and clean. But as my son suddenly became an active toddler, I've realised that I had no idea how to react to tantrums, how strict I should be, and how to maximise my chances of raising a happy, confident, independent, and kind individual. So I've done what all geeks do when they face an area of incompetence - I've stuffed my face with books on this topic. 🤪 Here're the best I've read so far:
 
@@ -276,7 +276,7 @@ I didn't find anything new here, but that's probably only because I've already r
 
 </section>
 
-### Books for parents in Russian:
+### Books for Parents in Russian:
 
 It's a shame I haven't found the following books in English translation. If you're a parent and you know Russian, all of the following books are highly recommended. And the first 2 are absolutely must-read!
 

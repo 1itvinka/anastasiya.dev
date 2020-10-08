@@ -7,7 +7,7 @@ image: img.jpg
 
 Yay! It's here! My first personal website!
 
-## The Story Behind Picking The Stack
+## The Story Behind Picking the Stack
 
 When I first decided to create my website, I've told myself:
 
