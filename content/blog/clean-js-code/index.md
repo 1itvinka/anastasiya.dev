@@ -1,5 +1,5 @@
 ---
-title: My Principles For Writing Clean JavaScript Code
+title: My Principles for Writing Clean Javascript Code
 date: "2020-07-01T13:46:42+00:00"
 updatedOnDate: "2020-07-01T13:46:42+00:00"
 image: img.jpg
