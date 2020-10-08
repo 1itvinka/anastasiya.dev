@@ -53,7 +53,7 @@ At the same time, hey, you're a frontend developer! That's your job to make the 
 
 Spell check, grammar check, and style check!
 
-A good programmer should be detail-oriented, and a typo is a huge red flag. Some people will throw out your resume if you're misspelling things. So get at least one native speaker to proof-read your resume.
+A good programmer should be detail-oriented, and a typo is a huge red flag. Some people will throw out your resume if you're misspelling things. So ask at least one native speaker to proof-read your resume.
 
 ### Useful Articles
 
