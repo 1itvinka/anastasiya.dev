@@ -80,6 +80,26 @@ const useStyles = makeStyles(theme => ({
         overflow: "hidden",
       },
     },
+
+    "& .separator": {
+      paddingTop: theme.spacing(4),
+      paddingBottom: theme.spacing(4),
+      display:"flex",
+      justifyContent: "center",
+
+      "& em": {
+        width: "3px",
+        height: "3px",
+        backgroundColor: "rgb(8, 8, 8)",
+        borderRadius: "50%",
+        marginRight: theme.spacing(3),
+        display: "inline-block",
+
+        "&:last-child": {
+          marginRight: '0'
+        }
+      }
+    }
   },
 }))
 
