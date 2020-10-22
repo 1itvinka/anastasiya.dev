@@ -5,14 +5,6 @@ updatedOnDate: "2020-07-13T15:14:46+00:00"
 image: img.jpg
 ---
 
-This article is a part of the series [My Principles For Writing Clean JavaScript Code](https://anastasiya.dev/clean-js-code/).
-
-Most of the principles below are not language-specific, although I use JavaScript for the code examples.
-
-In many examples, I use the code from [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript). It's a fantastic resource for learning how to write clean code in JavaScript — highly recommended!
-
-### Introduction
-
 Choosing a good name can take time and effort. But it's totally worth it. Proper names make it much easier to maintain code. If a name requires a comment - it's a bad name.
 
 ### Main Principles
@@ -159,3 +151,11 @@ const firstName = "Anastasiya"
 ### Conclusion
 
 Names should reveal intent, be easy to read and discuss, be searchable, and shouldn't be confusing and misleading. Quite simple, right? Not always. But that's super important to do it properly.
+
+<section class="separator"><em></em><em></em><em></em></section>
+
+This article is a part of the series [My Principles For Writing Clean JavaScript Code](https://anastasiya.dev/clean-js-code/).
+
+In many examples above, I use the code from [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript). It’s a fantastic resource for learning how to write clean code in JavaScript — highly recommended!
+
+My website is not a standard blog — it's a [digital garden](https://anastasiya.dev/why-digital-garden/), and I constantly add, move around, and remove stuff. So please feel free to join the conversation. All the content is on [github](https://github.com/1itvinka/anastasiya.dev/tree/master/content/blog). Or it might be easier to [discuss it on Twitter](https://mobile.twitter.com/search?q=https://anastasiya.dev/names/).

@@ -5,12 +5,6 @@ updatedOnDate: "2020-07-06T10:57:36+00:00"
 image: img.jpg
 ---
 
-This article is a part of the series [My Principles For Writing Clean JavaScript Code](https://anastasiya.dev/clean-js-code/).
-
-All of the principles below are not language-specific, although I use JavaScript for the code examples.
-
-### Introduction
-
 My rule of thumb is to **use comments as little as possible**. Good code mostly documents itself.
 
 Comments can lie and mislead. They create noise, and they can clutter your code. So use them only if you fail to express yourself otherwise. Always choose to have a single source of truth: the code.
@@ -201,3 +195,9 @@ if (isEmailValid(myEmail)) {
 ### Conclusion
 
 Sometimes comments are necessary. But more often than not, you can avoid them by writing cleaner and more readable code. Use comments only if you fail to express yourself in code.
+
+<section class="separator"><em></em><em></em><em></em></section>
+
+This article is a part of the series [My Principles For Writing Clean JavaScript Code](https://anastasiya.dev/clean-js-code/).
+
+My website is not a standard blog — it's a [digital garden](https://anastasiya.dev/why-digital-garden/), and I constantly add, move around, and remove stuff. So please feel free to join the conversation. All the content is on [github](https://github.com/1itvinka/anastasiya.dev/tree/master/content/blog). Or it might be easier to [discuss it on Twitter](https://mobile.twitter.com/search?q=https://anastasiya.dev/comments/).

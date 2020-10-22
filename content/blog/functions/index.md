@@ -5,10 +5,6 @@ updatedOnDate: "2020-09-10T06:06:21+00:00"
 image: img.jpg
 ---
 
-This article is a part of the series [My Principles For Writing Clean JavaScript Code](https://anastasiya.dev/clean-js-code/).
-
-In many examples below, I use the code from [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript). It's a fantastic resource for learning how to write clean code in JavaScript — highly recommended!
-
 ### Main Principles
 
 #### 1. A function should do one thing, and only one thing
@@ -118,3 +114,11 @@ A function has "side effects" if it promises to do one thing, but it also does o
 #### 6. Use descriptive names
 
 The smaller and more focused the function is, the easier it is to choose a descriptive name. Don't be afraid to make the name long. A long descriptive name is better than a short name that requires a long descriptive comment.
+
+<section class="separator"><em></em><em></em><em></em></section>
+
+This article is a part of the series [My Principles For Writing Clean JavaScript Code](https://anastasiya.dev/clean-js-code/).
+
+In many examples above, I use the code from [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript). It’s a fantastic resource for learning how to write clean code in JavaScript — highly recommended!
+
+My website is not a standard blog — it's a [digital garden](https://anastasiya.dev/why-digital-garden/), and I constantly add, move around, and remove stuff. So please feel free to join the conversation. All the content is on [github](https://github.com/1itvinka/anastasiya.dev/tree/master/content/blog). Or it might be easier to [discuss it on Twitter](https://mobile.twitter.com/search?q=https://anastasiya.dev/functions/).
