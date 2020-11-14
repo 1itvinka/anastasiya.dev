@@ -46,10 +46,11 @@ const useStyles = makeStyles(theme => ({
     display: "flex",
     alignItems: "center",
     justifyContent: "center",
+    marginTop: "-0.85rem",
   },
   img: {
-    width: "360px",
-    height: "360px",
+    width: "300px",
+    height: "300px",
     borderRadius: "50%",
   },
 }))
