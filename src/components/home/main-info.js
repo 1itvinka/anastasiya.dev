@@ -7,7 +7,6 @@ import grey from "@material-ui/core/colors/grey"
 import Img from "gatsby-image"
 import { useStaticQuery, graphql } from "gatsby"
 
-import Fade from "react-reveal/Fade"
 import Tada from "react-reveal/Tada"
 
 const useStyles = makeStyles(theme => ({
@@ -85,30 +84,24 @@ export default function MainInfo() {
       <Container className={classes.container}>
         <Grid container spacing={2} className={classes.info}>
           <Grid item xs={12} md={7} className={classes.about}>
-            <Fade bottom>
-              <Typography variant="h1" className={classes.title}>
-                Hi there!
-                <Tada delay={1200}>
-                  <div role="img" aria-label="hi" className={classes.hiImg}>
-                    👋
-                  </div>
-                </Tada>
-              </Typography>
-            </Fade>
+            <Typography variant="h1" className={classes.title}>
+              Hi there!
+              <Tada delay={600}>
+                <div role="img" aria-label="hi" className={classes.hiImg}>
+                  👋
+                </div>
+              </Tada>
+            </Typography>
 
-            <Fade bottom delay={300}>
-              <Typography variant="body1" className={classes.text}>
-                My name is Anastasiya. I'm a frontend developer who is crazy
-                about creating beautiful and performant web apps.
-              </Typography>
-            </Fade>
+            <Typography variant="body1" className={classes.text}>
+              My name is Anastasiya. I'm a frontend developer who is crazy about
+              creating beautiful and performant web apps.
+            </Typography>
 
-            <Fade bottom delay={600}>
-              <Typography variant="body1" className={classes.text}>
-                Here I drop notes about things that I'm interested in: frontend
-                development, code quality, books, learning, etc.
-              </Typography>
-            </Fade>
+            <Typography variant="body1" className={classes.text}>
+              Here I drop notes about things that I'm interested in: frontend
+              development, code quality, books, learning, etc.
+            </Typography>
           </Grid>
           <Grid item xs={12} md={5} className={classes.imgWrapper}>
             <Img
