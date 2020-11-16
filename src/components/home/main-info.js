@@ -46,7 +46,10 @@ const useStyles = makeStyles(theme => ({
     display: "flex",
     alignItems: "center",
     justifyContent: "center",
-    marginTop: "-0.85rem",
+
+    [theme.breakpoints.up("md")]: {
+      marginTop: "-0.85rem",
+    },
   },
   img: {
     width: "300px",
