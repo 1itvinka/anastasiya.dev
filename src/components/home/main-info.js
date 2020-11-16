@@ -7,6 +7,9 @@ import grey from "@material-ui/core/colors/grey"
 import Img from "gatsby-image"
 import { useStaticQuery, graphql } from "gatsby"
 
+import Fade from "react-reveal/Fade"
+import Tada from "react-reveal/Tada"
+
 const useStyles = makeStyles(theme => ({
   root: {
     background: theme.colors.background,
@@ -35,6 +38,10 @@ const useStyles = makeStyles(theme => ({
     fontWeight: "bold",
     marginBottom: theme.spacing(3),
     letterSpacing: "0.2rem",
+  },
+  hiImg: {
+    display: "inline-block",
+    marginLeft: "1rem",
   },
   text: {
     fontSize: "1.65rem",
@@ -78,20 +85,30 @@ export default function MainInfo() {
       <Container className={classes.container}>
         <Grid container spacing={2} className={classes.info}>
           <Grid item xs={12} md={7} className={classes.about}>
-            <Typography variant="h1" className={classes.title}>
-              Hi there!{" "}
-              <span role="img" aria-label="hi">
-                👋
-              </span>
-            </Typography>
-            <Typography variant="body1" className={classes.text}>
-              My name is Anastasiya. I'm a frontend developer who is crazy about
-              creating beautiful and performant web apps.
-            </Typography>
-            <Typography variant="body1" className={classes.text}>
-              Here I drop notes about things that I'm interested in: frontend
-              development, code quality, books, learning, etc.
-            </Typography>
+            <Fade bottom>
+              <Typography variant="h1" className={classes.title}>
+                Hi there!
+                <Tada delay={1200}>
+                  <div role="img" aria-label="hi" className={classes.hiImg}>
+                    👋
+                  </div>
+                </Tada>
+              </Typography>
+            </Fade>
+
+            <Fade bottom delay={300}>
+              <Typography variant="body1" className={classes.text}>
+                My name is Anastasiya. I'm a frontend developer who is crazy
+                about creating beautiful and performant web apps.
+              </Typography>
+            </Fade>
+
+            <Fade bottom delay={600}>
+              <Typography variant="body1" className={classes.text}>
+                Here I drop notes about things that I'm interested in: frontend
+                development, code quality, books, learning, etc.
+              </Typography>
+            </Fade>
           </Grid>
           <Grid item xs={12} md={5} className={classes.imgWrapper}>
             <Img

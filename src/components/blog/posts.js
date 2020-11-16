@@ -4,6 +4,7 @@ import makeStyles from "@material-ui/core/styles/makeStyles"
 import { useStaticQuery, graphql } from "gatsby"
 import Grid from "@material-ui/core/Grid"
 import PostPreview from "./post-preview"
+import Fade from "react-reveal/Fade"
 
 const useStyles = makeStyles(theme => ({
   posts: {
@@ -46,12 +47,14 @@ const Posts = ({ limit = 1000 }) => {
     <Grid container spacing={3} className={classes.posts}>
       {data.allMarkdownRemark.edges.slice(0, limit).map(({ node }) => (
         <Grid item xs={12} md={6} key={node.fields.slug}>
-          <PostPreview
-            slug={node.fields.slug}
-            img={node.frontmatter.image}
-            title={node.frontmatter.title}
-            updatedOnDate={node.frontmatter.updatedOnDate}
-          />
+          <Fade>
+            <PostPreview
+              slug={node.fields.slug}
+              img={node.frontmatter.image}
+              title={node.frontmatter.title}
+              updatedOnDate={node.frontmatter.updatedOnDate}
+            />
+          </Fade>
         </Grid>
       ))}
     </Grid>
