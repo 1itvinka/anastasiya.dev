@@ -41,9 +41,18 @@ const useStyles = makeStyles(theme => ({
     },
 
     // custom styles for code snippets
-    "& pre[class*='language-'], & p > code": {
+    "& pre[class*='language-']": {
       fontSize: "1rem",
       background: theme.colors.background,
+    },
+
+    "& p > code": {
+      fontSize: "1rem",
+      background: grey[300],
+      color: "rgba(0, 0, 0, 0.87)",
+      textShadow: "none",
+      padding: "2px 4px",
+      fontWeight: "400",
     },
 
     "& .token.atrule, .token.attr-value, .token.function, .token.class-name": {
@@ -84,7 +93,7 @@ const useStyles = makeStyles(theme => ({
     "& .separator": {
       paddingTop: theme.spacing(4),
       paddingBottom: theme.spacing(4),
-      display:"flex",
+      display: "flex",
       justifyContent: "center",
 
       "& em": {
@@ -96,10 +105,10 @@ const useStyles = makeStyles(theme => ({
         display: "inline-block",
 
         "&:last-child": {
-          marginRight: '0'
-        }
-      }
-    }
+          marginRight: "0",
+        },
+      },
+    },
   },
 }))
 
