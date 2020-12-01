@@ -48,11 +48,9 @@ console.log(0 || "value") // "value"
 Dynamic imports can drastically speed up your load time. Another reason you might want to import a module dynamically is if it doesn't exist at the load time.
 
 ```javascript
-;(async () => {
-  if (myCondition) {
-    await import("/modules/dynamic-module.js")
-  }
-})()
+if (myCondition) {
+  await import("/modules/dynamic-module.js")
+}
 ```
 
 #### 5. BigInt
