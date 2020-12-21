@@ -28,6 +28,12 @@ const useStyles = makeStyles(theme => ({
     lineHeight: "1.65",
     textAlign: "justify",
 
+    "& h2": {
+      fontSize: "1.2rem",
+      lineHeight: "1.65",
+      paddingTop: theme.spacing(3),
+    },
+
     "& h3": {
       paddingTop: theme.spacing(4),
     },
@@ -46,7 +52,7 @@ const useStyles = makeStyles(theme => ({
       background: theme.colors.background,
     },
 
-    "& p > code": {
+    "& p > code, & h2 > code": {
       fontSize: "1rem",
       background: grey[300],
       color: "rgba(0, 0, 0, 0.87)",
