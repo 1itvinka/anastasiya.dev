@@ -78,7 +78,7 @@ But don't just guess if you're using the safe colour combinations or not. There'
 
 ## 12. Use `rem` not `px` at least for font-sizes
 
-In most browsers, you can change the default font-size, which is typically 16px. If font-sizes on a website are defined in `rem` or 'em`, users' settings are respected.
+In most browsers, you can change the default font-size, which is typically 16px. If font-sizes on a website are defined in `rem` or `em`, users' settings are respected.
 
 ## 13. Images should have `alt` attributes
 
