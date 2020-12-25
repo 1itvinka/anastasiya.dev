@@ -3,6 +3,11 @@ title: "New in CSS I'm Excited About"
 date: "2020-11-16T10:28:22+00:00"
 updatedOnDate: "2020-11-16T10:28:22+00:00"
 image: img.jpg
+imageRef:
+  link: https://www.pexels.com/photo/gray-laptop-computer-showing-html-codes-in-shallow-focus-photography-160107/
+  platform: Pexels
+  authorName: Negative Space
+  authorLink: https://www.pexels.com/@negativespace
 ---
 
 #### 1. Subgrid

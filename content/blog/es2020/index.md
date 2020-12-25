@@ -3,6 +3,11 @@ title: "New in JavaScript Cheatsheet: ES2020"
 date: "2020-11-30T12:54:27+00:00"
 updatedOnDate: "2020-11-30T12:54:27+00:00"
 image: img.jpg
+imageRef:
+  link: https://www.pexels.com/photo/silver-macbook-air-and-goose-neck-lamp-939331/
+  platform: Pexels
+  authorName: Daan Stevens
+  authorLink: https://www.pexels.com/@daan-stevens-66128
 ---
 
 #### 1. Optional chaining

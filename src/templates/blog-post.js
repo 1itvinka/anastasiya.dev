@@ -45,6 +45,12 @@ export const pageQuery = graphql`
             }
           }
         }
+        imageRef {
+          link
+          platform
+          authorName
+          authorLink
+        }
       }
     }
   }

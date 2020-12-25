@@ -3,6 +3,11 @@ title: "Clean JavaScript Code: Testing"
 date: "2020-10-16T15:39:07+00:00"
 updatedOnDate: "2020-10-16T15:39:07+00:00"
 image: img.jpg
+imageRef:
+  link: https://www.pexels.com/photo/technology-lens-laboratory-medical-60022/
+  platform: Pexels
+  authorName: Public Domain Pictures
+  authorLink: https://www.pexels.com/@public-domain-pictures
 ---
 
 ### Main Principles

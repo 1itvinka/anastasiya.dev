@@ -3,6 +3,11 @@ title: Accessible Website Checklist
 date: "2020-12-20T16:51:20+00:00"
 updatedOnDate: "2020-12-21T09:50:25+00:00"
 image: img.jpg
+imageRef:
+  link: https://www.pexels.com/photo/calm-dog-lying-near-laptop-on-crumpled-blanket-on-bed-4297813/
+  platform: Pexels
+  authorName: ready made
+  authorLink: https://www.pexels.com/@readymade
 ---
 
 Millions of people rely on websites being accessible. And not only because of disabilities and conditions, that can affect the way users interact with apps. Accessible websites provide much better experience for everybody who is using it.

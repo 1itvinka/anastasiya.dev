@@ -3,6 +3,11 @@ title: Eleventy SCSS Starter
 date: "2020-12-10T17:03:11+00:00"
 updatedOnDate: "2020-12-11T10:16:42+00:00"
 image: img.jpg
+imageRef:
+  link: https://www.pexels.com/photo/space-shuttle-launch-during-nighttime-796206/
+  platform: Pexels
+  authorName: Edvin Richardson
+  authorLink: https://www.pexels.com/@nivdex
 ---
 
 Recently I needed to create an HTML page to represent a design, without any further integration.

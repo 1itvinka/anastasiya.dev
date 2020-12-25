@@ -3,7 +3,7 @@ import PropTypes from "prop-types"
 import makeStyles from "@material-ui/core/styles/makeStyles"
 import Typography from "@material-ui/core/Typography"
 import grey from "@material-ui/core/colors/grey"
-import Img from "gatsby-image"
+import ArticleImg from "./article-img"
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -120,7 +120,6 @@ const useStyles = makeStyles(theme => ({
 
 const Article = ({ post }) => {
   const classes = useStyles()
-  const img = post.frontmatter.image
 
   return (
     <article className={classes.root}>
@@ -132,7 +131,9 @@ const Article = ({ post }) => {
           Updated on {post.frontmatter.updatedOnDate}
         </p>
       </header>
-      {img && <Img className={classes.img} fluid={img.childImageSharp.fluid} />}
+
+      <ArticleImg post={post} />
+
       <section
         dangerouslySetInnerHTML={{ __html: post.html }}
         className={classes.text}
