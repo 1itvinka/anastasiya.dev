@@ -94,8 +94,8 @@ export default function MainInfo() {
             </Typography>
 
             <Typography variant="body1" className={classes.text}>
-              My name is Anastasiya. I'm a frontend developer who is crazy about
-              creating beautiful and performant web apps.
+              My name is Anastasiya. I'm a passionate frontend developer who
+              loves to design and build great software.
             </Typography>
 
             <Typography variant="body1" className={classes.text}>
