@@ -1,13 +1,9 @@
 ---
 title: "Best Books I've Read and Listened in 2020"
 date: "2020-08-28T15:25:45+00:00"
-updatedOnDate: "2020-08-28T15:25:45+00:00"
+updatedOnDate: "2021-01-01T14:34:50+00:00"
 image: img.jpg
 ---
-
-Although it's not even close until the end of the year, I've decided to start to list all the great books I've finished in 2020 so far. It's already quite overwhelming, so if I wait until the end of the year, I'll probably never do it. 🤷‍♀️
-
-I LOVE audiobooks. And most of the books below I've listened to while doing something that doesn't require much concentration like walking or doing chores. It's a great way to get the main ideas and understand if it worth reading something with full attention. Most of the books on this list are definitely worth it!
 
 ## Books for Everyone
 
@@ -70,6 +66,18 @@ Although the book could be much shorter, I've enjoyed it from start to finish.
 ![Book Cover](https://m.media-amazon.com/images/I/41yGM8LleOL._SL500_.jpg)
 
 Loved it! It's a book that every leader should read. Full of stories, direct and honest. Highly recommended!
+
+</section>
+
+<section class="book">
+
+#### [Influence. The Psychology of Persuasion](https://amzn.to/2KJebLu)
+
+![Book Cover](https://m.media-amazon.com/images/I/51K-iHvDHNL._SL500_.jpg)
+
+Although many tricks are obvious for me, I learned a lot from this book. That's very useful to know how you can be manipulated by marketers, politicians, salespeople, waiters, etc. And the knowledge of some patterns of human behaviour can even save lives (see chapter "Social Proof").
+
+The "Authority" part surprised me the most, to be honest. I was shocked by the results of the experiment described there. This power might explain some of the horrible things that were going on in Belarus in august 2020.
 
 </section>
 
@@ -164,6 +172,26 @@ The book made me think about my professional life as well:
 
 <section class="book">
 
+#### [Small Change: Money Mishaps and How to Avoid Them](https://amzn.to/3rJKHNU)
+
+![Book Cover](https://m.media-amazon.com/images/I/51bm0GW2pqL._SL500_.jpg)
+
+A good rehash of “Predictably Irrational" by the same author, but nothing new.
+
+</section>
+
+<section class="book">
+
+#### [The Lean Startup](https://amzn.to/3519XWj)
+
+![Book Cover](https://m.media-amazon.com/images/I/51PAIR77wJL._SL500_.jpg)
+
+I first read this book years ago. That's my favourite book about startups, entrepreneurship and validated learning. Highly recommended!
+
+</section>
+
+<section class="book">
+
 #### [Spark Joy: An Illustrated Guide to the Japanese Art of Tidying](https://amzn.to/30GfAHH)
 
 ![Book Cover](https://m.media-amazon.com/images/I/31oTRCUjznL._SL500_.jpg)
@@ -222,6 +250,26 @@ Good read overall, but as for me, there's too much advertising for Microsoft.
 
 </section>
 
+<section class="book">
+
+#### [The Latte Factor](https://amzn.to/2X2zD0s)
+
+![Book Cover](https://m.media-amazon.com/images/I/41Q+x7munYL._SL500_.jpg)
+
+Nothing new for me here. But it was a good reminder about the power of the compound effect.
+
+</section>
+
+<section class="book">
+
+#### [Becoming](https://amzn.to/34ZUlT2)
+
+![Book Cover](https://m.media-amazon.com/images/I/41Y1DPGbDvL._SL500_.jpg)
+
+I really enjoyed the story, and I learned more than I thought I would. I learned not only about Michelle's life, her family, her dreams and worries, but also about the USA, politics, society, etc.
+
+</section>
+
 ## Books for Parents:
 
 Although physically exhausting, my 1st year of being a mum was pretty straightforward: just keep that baby happy, full, and clean. But as my son suddenly became an active toddler, I've realised that I had no idea how to react to tantrums, how strict I should be, and how to maximise my chances of raising a happy, confident, independent, and kind individual. So I've done what all geeks do when they face an area of incompetence - I've stuffed my face with books on this topic. 🤪 Here're the best I've read so far:
@@ -232,7 +280,7 @@ Although physically exhausting, my 1st year of being a mum was pretty straightfo
 
 ![Book Cover](https://m.media-amazon.com/images/I/6137ZXV2sxL._SL500_.jpg)
 
-Such a useful guide that's full of brilliant tips! I'll definitely reread it when my son is 2.
+Such a useful guide that's full of brilliant tips! I'll definitely reread it next year.
 
 </section>
 
@@ -343,5 +391,3 @@ It's a shame I haven't found the following books in English translation. If you'
 ![Book Cover](https://cv5.litres.ru/pub/c/audiokniga/cover_330/36627659-a-a-bykova-shkolniki-lenivoy-mamy-36627659.jpg)
 
 </section>
-
-The year is not over, so I hope to update this list many more times. Please [tweet at me](https://twitter.com/1itvinka) your recommendations!
