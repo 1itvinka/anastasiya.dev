@@ -5,9 +5,7 @@ updatedOnDate: "2020-09-10T06:06:21+00:00"
 image: img.jpg
 ---
 
-### Main Principles
-
-#### 1. A function should do one thing, and only one thing
+## 1. A function should do one thing, and only one thing
 
 I can't emphasise enough the importance of this principle. If you follow this rule, the world would be a happier place. :)
 
@@ -37,7 +35,7 @@ function isActiveClient(client) {
 }
 ```
 
-#### 2. Use up to 2 parameters
+## 2. Use up to 2 parameters
 
 The ideal number of arguments for a function is 0. And functions with more than two parameters are hard to test, hard to read, and hard to change.
 
@@ -68,7 +66,7 @@ createProduct({
 });
 ```
 
-#### 3. Avoid flag arguments
+## 3. Avoid flag arguments
 
 Passing a boolean into a function loudly says that this function does more than one thing. It's better to split out your functions in this case.
 
@@ -96,7 +94,7 @@ function createTempFile(name) {
 }
 ```
 
-#### 4. The blocks within statements like "if", "else", "while" should be one line long.
+## 4. The blocks within statements like "if", "else", "while" should be one line long.
 
 In most cases, that line should be a function call.
 
@@ -107,11 +105,11 @@ The benefits of doing this:
 - it can help you to avoid redundant comments;
 - it's easier to test.
 
-#### 5. Avoid side effects
+## 5. Avoid side effects
 
 A function has "side effects" if it promises to do one thing, but it also does other hidden things. Such code is very error-prone.
 
-#### 6. Use descriptive names
+## 6. Use descriptive names
 
 The smaller and more focused the function is, the easier it is to choose a descriptive name. Don't be afraid to make the name long. A long descriptive name is better than a short name that requires a long descriptive comment.
 

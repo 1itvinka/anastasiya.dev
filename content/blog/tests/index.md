@@ -10,9 +10,7 @@ imageRef:
   authorLink: https://www.pexels.com/@public-domain-pictures
 ---
 
-### Main Principles
-
-#### 1. Single Concept per Test
+## 1. Single Concept per Test
 
 Bad:
 
@@ -64,11 +62,11 @@ describe("MomentJS", () => {
 })
 ```
 
-#### 2. Tests Should Run Fast
+## 2. Tests Should Run Fast
 
 Almost instantly. You should be able to run them after even a minor change.
 
-#### 3. Tests Should Never Depend on Each Other
+## 3. Tests Should Never Depend on Each Other
 
 You should be able to run each test independently, and in any order you like.
 

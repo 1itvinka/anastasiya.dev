@@ -29,16 +29,14 @@ const useStyles = makeStyles(theme => ({
     textAlign: "justify",
 
     "& h2": {
-      fontSize: "1.2rem",
+      fontSize: "1.4rem",
       lineHeight: "1.65",
-      paddingTop: theme.spacing(3),
-    },
-
-    "& h3": {
       paddingTop: theme.spacing(4),
     },
 
-    "& h4": {
+    "& h3, & h4": {
+      fontSize: "1.2rem",
+      lineHeight: "1.65",
       paddingTop: theme.spacing(3),
     },
 

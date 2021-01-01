@@ -9,7 +9,7 @@ image: img.jpg
 
 <section class="book">
 
-#### [The Power of Habit: Why We Do What We Do, and How to Change](https://amzn.to/2F6h31J)
+### [The Power of Habit: Why We Do What We Do, and How to Change](https://amzn.to/2F6h31J)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51PAtnlvW1L._SL500_.jpg)
 
@@ -19,7 +19,7 @@ This book shows how habits drive the behaviour of individuals, organisations, an
 
 <section class="book">
 
-#### [How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life](https://amzn.to/33H98SS)
+### [How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life](https://amzn.to/33H98SS)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51cA0gImCZL._SL500_.jpg)
 
@@ -34,7 +34,7 @@ And many more. I'm definitely going to reread soon!
 
 <section class="book">
 
-#### [Never Split the Difference: Negotiating as if Your Life Depended on It](https://amzn.to/3a6CYkG)
+### [Never Split the Difference: Negotiating as if Your Life Depended on It](https://amzn.to/3a6CYkG)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51TSWCruAHL._SL500_.jpg)
 
@@ -44,7 +44,7 @@ This book is the first in my list "to reread with full concentration while takin
 
 <section class="book">
 
-#### [Made to Stick: Why Some Ideas Survive and Others Die](https://amzn.to/3acbXfF)
+### [Made to Stick: Why Some Ideas Survive and Others Die](https://amzn.to/3acbXfF)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51fhNaNM87L._SL500_.jpg)
 
@@ -61,7 +61,7 @@ Although the book could be much shorter, I've enjoyed it from start to finish.
 
 <section class="book">
 
-#### [Permission to Screw Up. How I Learned to Lead by Doing (Almost) Everything Wrong](https://amzn.to/3hCRkvX)
+### [Permission to Screw Up. How I Learned to Lead by Doing (Almost) Everything Wrong](https://amzn.to/3hCRkvX)
 
 ![Book Cover](https://m.media-amazon.com/images/I/41yGM8LleOL._SL500_.jpg)
 
@@ -71,7 +71,7 @@ Loved it! It's a book that every leader should read. Full of stories, direct and
 
 <section class="book">
 
-#### [Influence. The Psychology of Persuasion](https://amzn.to/2KJebLu)
+### [Influence. The Psychology of Persuasion](https://amzn.to/2KJebLu)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51K-iHvDHNL._SL500_.jpg)
 
@@ -83,7 +83,7 @@ The "Authority" part surprised me the most, to be honest. I was shocked by the r
 
 <section class="book">
 
-#### [The Chimp Paradox](https://amzn.to/33H8gh0)
+### [The Chimp Paradox](https://amzn.to/33H8gh0)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51BydRgJ2CL._SL500_.jpg)
 
@@ -93,7 +93,7 @@ The mind model described in the book is absolutely brilliant. It says that withi
 
 <section class="book">
 
-#### [Peak Performance: Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success](https://amzn.to/30FlSHG)
+### [Peak Performance: Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success](https://amzn.to/30FlSHG)
 
 ![Book Cover](https://m.media-amazon.com/images/I/41ssxrhLwCL._SL500_.jpg)
 
@@ -103,7 +103,7 @@ Although the book was super dull at the beginning, I'm glad I kept listening as 
 
 <section class="book">
 
-#### [Make Time: How to focus on what matters every day](https://amzn.to/33Slc3N)
+### [Make Time: How to focus on what matters every day](https://amzn.to/33Slc3N)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51gQ7pHF-zL._SL500_.jpg)
 
@@ -113,7 +113,7 @@ The book is full of great tips and practical advice about helping you make time 
 
 <section class="book">
 
-#### [Algorithms to Live By: The Computer Science of Human Decisions](https://amzn.to/2PCRDKU)
+### [Algorithms to Live By: The Computer Science of Human Decisions](https://amzn.to/2PCRDKU)
 
 ![Book Cover](https://m.media-amazon.com/images/I/519lKuoLN-L.jpg)
 
@@ -123,7 +123,7 @@ Any mathematician or/and a programmer will absolutely love this book! Very well 
 
 <section class="book">
 
-#### [Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers](https://amzn.to/2C8eHy2)
+### [Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers](https://amzn.to/2C8eHy2)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51xVXCYXeGL._SL500_.jpg)
 
@@ -133,7 +133,7 @@ Although the audio version is quite hard to follow, this book is packed with gre
 
 <section class="book">
 
-#### [How to Own the World: A Plain English Guide to Thinking Globally and Investing Wisely](https://amzn.to/31wtwDj)
+### [How to Own the World: A Plain English Guide to Thinking Globally and Investing Wisely](https://amzn.to/31wtwDj)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51PFdz2QfFL._SL500_.jpg)
 
@@ -143,7 +143,7 @@ I wish I'd read this book in my early 20s. It's an invaluable guide for a comple
 
 <section class="book">
 
-#### [The Simple Path to Wealth: Your road map to financial independence and a rich, free life](https://amzn.to/2DzmuFN)
+### [The Simple Path to Wealth: Your road map to financial independence and a rich, free life](https://amzn.to/2DzmuFN)
 
 ![Book Cover](https://m.media-amazon.com/images/I/414UzZxaSFL._SL500_.jpg)
 
@@ -153,7 +153,7 @@ Although the book is very US-focused, most principles are universal. I'll defini
 
 <section class="book">
 
-#### [Bad Blood: Secrets and Lies in a Silicon Valley Startup](https://amzn.to/2PEtzY0)
+### [Bad Blood: Secrets and Lies in a Silicon Valley Startup](https://amzn.to/2PEtzY0)
 
 ![Book Cover](https://m.media-amazon.com/images/I/41O5blDy52L._SL500_.jpg)
 
@@ -172,7 +172,7 @@ The book made me think about my professional life as well:
 
 <section class="book">
 
-#### [Small Change: Money Mishaps and How to Avoid Them](https://amzn.to/3rJKHNU)
+### [Small Change: Money Mishaps and How to Avoid Them](https://amzn.to/3rJKHNU)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51bm0GW2pqL._SL500_.jpg)
 
@@ -182,7 +182,7 @@ A good rehash of “Predictably Irrational" by the same author, but nothing new.
 
 <section class="book">
 
-#### [The Lean Startup](https://amzn.to/3519XWj)
+### [The Lean Startup](https://amzn.to/3519XWj)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51PAIR77wJL._SL500_.jpg)
 
@@ -192,7 +192,7 @@ I first read this book years ago. That's my favourite book about startups, entre
 
 <section class="book">
 
-#### [Spark Joy: An Illustrated Guide to the Japanese Art of Tidying](https://amzn.to/30GfAHH)
+### [Spark Joy: An Illustrated Guide to the Japanese Art of Tidying](https://amzn.to/30GfAHH)
 
 ![Book Cover](https://m.media-amazon.com/images/I/31oTRCUjznL._SL500_.jpg)
 
@@ -202,7 +202,7 @@ I absolutely love the concept. The most insightful parts for me were about organ
 
 <section class="book">
 
-#### [Running Like a Girl](https://amzn.to/3fzux2w)
+### [Running Like a Girl](https://amzn.to/3fzux2w)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51-gQGdYHCL._SL500_.jpg)
 
@@ -212,7 +212,7 @@ Gobbled up the book in 2 days. I always thought running is not my thing, even th
 
 <section class="book">
 
-#### [How to Win Friends and Influence People](https://amzn.to/3afolvC)
+### [How to Win Friends and Influence People](https://amzn.to/3afolvC)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51PWIy1rHUL._SL500_.jpg)
 
@@ -222,7 +222,7 @@ Must read for everyone. I'll try to reread this book every year.
 
 <section class="book">
 
-#### [Ultralearning: Accelerate Your Career, Master Hard Skills and Outsmart the Competition](https://amzn.to/2Py53Il)
+### [Ultralearning: Accelerate Your Career, Master Hard Skills and Outsmart the Competition](https://amzn.to/2Py53Il)
 
 ![Book Cover](https://m.media-amazon.com/images/I/511nxjb8PCL._SL500_.jpg)
 
@@ -232,7 +232,7 @@ Full of great stories and very well-written, but I've already forgotten most of 
 
 <section class="book">
 
-#### [24 Assets: Create a digital, scalable, valuable and fun business that will thrive in a fast changing world](https://amzn.to/31sDwxo)
+### [24 Assets: Create a digital, scalable, valuable and fun business that will thrive in a fast changing world](https://amzn.to/31sDwxo)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51cxEs66USL._SL500_.jpg)
 
@@ -242,7 +242,7 @@ It's an excellent book for entrepreneurs or business owners. I'll definitely rer
 
 <section class="book">
 
-#### [Hit Refresh: A Memoir by Microsoft’s CEO](https://amzn.to/3imKV8l)
+### [Hit Refresh: A Memoir by Microsoft’s CEO](https://amzn.to/3imKV8l)
 
 ![Book Cover](https://m.media-amazon.com/images/I/41ikuB0l8qL._SL500_.jpg)
 
@@ -252,7 +252,7 @@ Good read overall, but as for me, there's too much advertising for Microsoft.
 
 <section class="book">
 
-#### [The Latte Factor](https://amzn.to/2X2zD0s)
+### [The Latte Factor](https://amzn.to/2X2zD0s)
 
 ![Book Cover](https://m.media-amazon.com/images/I/41Q+x7munYL._SL500_.jpg)
 
@@ -262,7 +262,7 @@ Nothing new for me here. But it was a good reminder about the power of the compo
 
 <section class="book">
 
-#### [Becoming](https://amzn.to/34ZUlT2)
+### [Becoming](https://amzn.to/34ZUlT2)
 
 ![Book Cover](https://m.media-amazon.com/images/I/41Y1DPGbDvL._SL500_.jpg)
 
@@ -270,13 +270,13 @@ I really enjoyed the story, and I learned more than I thought I would. I learned
 
 </section>
 
-## Books for Parents:
+## Books for Parents
 
 Although physically exhausting, my 1st year of being a mum was pretty straightforward: just keep that baby happy, full, and clean. But as my son suddenly became an active toddler, I've realised that I had no idea how to react to tantrums, how strict I should be, and how to maximise my chances of raising a happy, confident, independent, and kind individual. So I've done what all geeks do when they face an area of incompetence - I've stuffed my face with books on this topic. 🤪 Here're the best I've read so far:
 
 <section class="book">
 
-#### [How To Talk So Little Kids Will Listen: A Survival Guide to Life with Children Ages 2-7](https://amzn.to/2DQwhHh)
+### [How To Talk So Little Kids Will Listen: A Survival Guide to Life with Children Ages 2-7](https://amzn.to/2DQwhHh)
 
 ![Book Cover](https://m.media-amazon.com/images/I/6137ZXV2sxL._SL500_.jpg)
 
@@ -286,7 +286,7 @@ Such a useful guide that's full of brilliant tips! I'll definitely reread it nex
 
 <section class="book">
 
-#### [The Gentle Sleep Book: Gentle, No-Tears, Sleep Solutions for Parents of Newborns to Five-Year-Olds](https://amzn.to/2DLWzux)
+### [The Gentle Sleep Book: Gentle, No-Tears, Sleep Solutions for Parents of Newborns to Five-Year-Olds](https://amzn.to/2DLWzux)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51SpxSOx1TL._SL500_.jpg)
 
@@ -296,7 +296,7 @@ I wish I'd read this book almost two years earlier! At least I would be much cal
 
 <section class="book">
 
-#### [The Book You Wish Your Parents Had Read (and Your Children Will Be Glad That You Did)](https://amzn.to/3kqh14V)
+### [The Book You Wish Your Parents Had Read (and Your Children Will Be Glad That You Did)](https://amzn.to/3kqh14V)
 
 ![Book Cover](https://m.media-amazon.com/images/I/412BjWQUQwL._SL500_.jpg)
 
@@ -306,7 +306,7 @@ I can't recommend it enough. It was the first parenting book I've read. And it a
 
 <section class="book">
 
-#### [Calm Parents, Happy Kids: The Secrets of Stress-free Parenting](https://amzn.to/3inr6Ok)
+### [Calm Parents, Happy Kids: The Secrets of Stress-free Parenting](https://amzn.to/3inr6Ok)
 
 ![Book Cover](https://m.media-amazon.com/images/I/41NCU460OAL._SL500_.jpg)
 
@@ -316,7 +316,7 @@ Although the book is very repetitive, which is a bit annoying, the tips are incr
 
 <section class="book">
 
-#### [The Danish Way of Parenting](https://amzn.to/3hDGKFe)
+### [The Danish Way of Parenting](https://amzn.to/3hDGKFe)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51z+Grj8LsL._SL500_.jpg)
 
@@ -324,13 +324,13 @@ I didn't find anything new here, but that's probably only because I've already r
 
 </section>
 
-### Books for Parents in Russian:
+## Books for Parents in Russian
 
 It's a shame I haven't found the following books in English translation. If you're a parent and you know Russian, all of the following books are highly recommended. And the first 2 are absolutely must-read!
 
 <section class="book">
 
-#### [Тайная опора. Привязанность в жизни ребенка](https://www.litres.ru/ludmila-petranovskaj/taynaya-opora-privyazannost-v-zhizni-rebenka-21620399/)
+### [Тайная опора. Привязанность в жизни ребенка](https://www.litres.ru/ludmila-petranovskaj/taynaya-opora-privyazannost-v-zhizni-rebenka-21620399/)
 
 ![Book Cover](https://cv9.litres.ru/pub/c/audiokniga/cover_330/21620399-ludmila-petranovskaj-taynaya-opora-privyazannost-v-zhizni-rebenka-21620399.jpg)
 
@@ -338,7 +338,7 @@ It's a shame I haven't found the following books in English translation. If you'
 
 <section class="book">
 
-#### [Если с ребенком трудно](https://www.litres.ru/ludmila-petranovskaja/esli-s-rebenkom-trudno-21974820/)
+### [Если с ребенком трудно](https://www.litres.ru/ludmila-petranovskaja/esli-s-rebenkom-trudno-21974820/)
 
 ![Book Cover](https://cv2.litres.ru/pub/c/audiokniga/cover_415/21974820-ludmila-petranovskaja-esli-s-rebenkom-trudno-21974820.jpg)
 
@@ -346,7 +346,7 @@ It's a shame I haven't found the following books in English translation. If you'
 
 <section class="book">
 
-#### [#Selfmama. Лайфхаки для работающей мамы](https://www.litres.ru/ludmila-petranovskaja/selfmama-layfhaki-dlya-rabotauschey-mamy-22473051/)
+### [#Selfmama. Лайфхаки для работающей мамы](https://www.litres.ru/ludmila-petranovskaja/selfmama-layfhaki-dlya-rabotauschey-mamy-22473051/)
 
 ![Book Cover](https://cv5.litres.ru/pub/c/audiokniga/cover_330/22473051-ludmila-petranovskaja-selfmama-layfhaki-dlya-rabotauschey-mamy-22473051.jpg)
 
@@ -354,7 +354,7 @@ It's a shame I haven't found the following books in English translation. If you'
 
 <section class="book">
 
-#### [Мой ребенок с удовольствием ходит в детский сад!](https://www.litres.ru/a-a-bykova/moy-rebenok-s-udovolstviem-hodit-v-detskiy-sad-28351705/)
+### [Мой ребенок с удовольствием ходит в детский сад!](https://www.litres.ru/a-a-bykova/moy-rebenok-s-udovolstviem-hodit-v-detskiy-sad-28351705/)
 
 ![Book Cover](https://cv0.litres.ru/pub/c/audiokniga/cover_330/28351705-a-a-bykova-moy-rebenok-s-udovolstviem-hodit-v-detskiy-sad-28351705.jpg)
 
@@ -362,7 +362,7 @@ It's a shame I haven't found the following books in English translation. If you'
 
 <section class="book">
 
-#### [Самостоятельный ребенок, или Как стать «ленивой мамой»](https://www.litres.ru/a-a-bykova/samostoyatelnyy-rebenok-ili-kak-stat-lenivoy-mamoy-22074890/)
+### [Самостоятельный ребенок, или Как стать «ленивой мамой»](https://www.litres.ru/a-a-bykova/samostoyatelnyy-rebenok-ili-kak-stat-lenivoy-mamoy-22074890/)
 
 ![Book Cover](https://cv9.litres.ru/pub/c/audiokniga/cover_330/22074890-a-a-bykova-samostoyatelnyy-rebenok-ili-kak-stat-lenivoy-mamoy-22074890.jpg)
 
@@ -370,7 +370,7 @@ It's a shame I haven't found the following books in English translation. If you'
 
 <section class="book">
 
-#### [Секреты спокойствия «ленивой мамы»](https://www.litres.ru/a-a-bykova/sekrety-spokoystviya-lenivoy-mamy-38271559/)
+### [Секреты спокойствия «ленивой мамы»](https://www.litres.ru/a-a-bykova/sekrety-spokoystviya-lenivoy-mamy-38271559/)
 
 ![Book Cover](https://cv5.litres.ru/pub/c/audiokniga/cover_330/38271559-a-a-bykova-sekrety-spokoystviya-lenivoy-mamy-38271559.jpg)
 
@@ -378,7 +378,7 @@ It's a shame I haven't found the following books in English translation. If you'
 
 <section class="book">
 
-#### [Развивающие занятия «ленивой мамы»](https://www.litres.ru/a-a-bykova/razvivauschie-zanyatiya-lenivoy-mamy-38978583/)
+### [Развивающие занятия «ленивой мамы»](https://www.litres.ru/a-a-bykova/razvivauschie-zanyatiya-lenivoy-mamy-38978583/)
 
 ![Book Cover](https://cv8.litres.ru/pub/c/audiokniga/cover_330/38978583-a-a-bykova-razvivauschie-zanyatiya-lenivoy-mamy-38978583.jpg)
 
@@ -386,7 +386,7 @@ It's a shame I haven't found the following books in English translation. If you'
 
 <section class="book">
 
-#### [Школьники «ленивой мамы»](https://www.litres.ru/a-a-bykova/shkolniki-lenivoy-mamy-36627659/)
+### [Школьники «ленивой мамы»](https://www.litres.ru/a-a-bykova/shkolniki-lenivoy-mamy-36627659/)
 
 ![Book Cover](https://cv5.litres.ru/pub/c/audiokniga/cover_330/36627659-a-a-bykova-shkolniki-lenivoy-mamy-36627659.jpg)
 

@@ -5,15 +5,13 @@ updatedOnDate: "2020-09-12T05:16:34+00:00"
 image: img.jpg
 ---
 
-### Main Principles
-
-#### 1. Automate it!
+## 1. Automate it!
 
 Formatting should be consistent across the project. But doing it manually is a massive waste of time. Luckily we have tools like [Prettier](https://prettier.io/). I fell in love with this tool the moment I've tried it. And it was very easy to persuade our team to use it. Such a game-changer!
 
 I use linters for rules only, and [Prettier](https://prettier.io/) for code styles.
 
-#### 2. Use consistent capitalisation
+## 2. Use consistent capitalisation
 
 Capitalization can carry valuable information about your variables,
 functions, etc. These rules are subjective, but the point is to be consistent.
@@ -38,7 +36,7 @@ function eraseDatabase() {}
 function restoreDatabase() {}
 ```
 
-#### 3. Make it readable from top to bottom
+## 3. Make it readable from top to bottom
 
 We tend to read code from top to bottom like an article. So ideally, every function should be followed by those at the next level of abstraction.
 

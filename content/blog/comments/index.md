@@ -5,17 +5,17 @@ updatedOnDate: "2020-07-06T10:57:36+00:00"
 image: img.jpg
 ---
 
-My rule of thumb is to **use comments as little as possible**. Good code mostly documents itself.
+My rule of thumb is to use comments as little as possible. Good code mostly documents itself.
 
 Comments can lie and mislead. They create noise, and they can clutter your code. So use them only if you fail to express yourself otherwise. Always choose to have a single source of truth: the code.
 
-### Common Ways to Clutter a Codebase With Comments:
+## Ways to Clutter a Codebase With Comments:
 
-**1. Comments to make up for bad code**
+### 1. Comments to make up for bad code
 
 It happens when we write some code, and we know it's confusing. But that's better to spend time cleaning the mess than to write comments that explain it.
 
-**2. Comments that rephrase what is already expressed in the code**
+### 2. Comments that rephrase what is already expressed in the code
 
 For example:
 
@@ -40,11 +40,11 @@ function showMessage() {
 
 From my experience, comments like this exist in a codebase if there're policies that code should be well-documented. As for me, such rules are, at best, very annoying. More often than not, such comments lie. Not intentionally. That's just because realistically, it's very hard to maintain them. Inaccurate comments are far worse than no comments at all.
 
-**3. Commented-out code**
+### 3. Commented-out code
 
 No, really, just delete the dead code. It won't be lost forever. You can always use your version control system to restore it.
 
-**4. Attributions and journal comments**
+### 4. Attributions and journal comments
 
 For example:
 
@@ -65,7 +65,7 @@ or
 
 If you're using a version control system, such comments are absolutely redundant. Once I've worked on a project where attribution comments stayed around for years, getting absolutely irrelevant over time.
 
-**5. Positional markers**
+### 5. Positional markers
 
 For example:
 
@@ -80,7 +80,7 @@ const useStyles = makeStyles(theme => ({
 
 They just add noise. Lots of noise. Split the file into smaller pieces, use proper names, and let indentation and formatting give the visual structure to your code.
 
-**6. Closing Brace Comments**
+### 6. Closing Brace Comments
 
 For example:
 
@@ -113,15 +113,15 @@ const data = useStaticQuery(graphql`
 
 If you think you need such comments, try to shorten your functions. And even if you can't do it, all the modern IDEs are great at highlighting this.
 
-### Sometimes, the Comments Are Necessary.
+## Sometimes, the Comments Are Necessary.
 
-**1. Useful information that can't be expressed in code**
+### 1. Useful information that can't be expressed in code
 
 It can be intent behind a decision, warning of consequences, clarification, etc.
 
 For example, as a frontend developer who deals with all sorts of weird browser bugs, sometimes I have to explain why this line of code is not nonsense but a critical fix.
 
-**2. Amplification**
+### 2. Amplification
 
 It might be useful to amplify the importance of something that otherwise seems to be insignificant. In one of the projects I've worked on, there was such a comment:
 
@@ -131,7 +131,7 @@ It might be useful to amplify the importance of something that otherwise seems t
 
 It's not a good comment as it misses the information about why it's crucial to think twice. But at least I've stopped and carefully thought about it.
 
-**3. TODO comments**
+### 3. TODO comments
 
 Sometimes there's a job that should be done, but you can't do it right now for some reason. In this case, it can be reasonable to leave a "todo" note.
 
@@ -141,17 +141,17 @@ Of course, needless to say, that a "todo" note is not an excuse to leave bad cod
 
 Scan through "todo"s regularly and eliminate them as fast as you can. Otherwise, the codebase will be littered with "todo"s quite quickly.
 
-**4. Legal comments**
+### 4. Legal comments
 
 Sometimes we're forced to write comments for legal reasons — for example, copyright statements.
 
-**5. Auto-generation of public documentation**
+### 5. Auto-generation of public documentation
 
 If you're creating a public API, it might be handy to generate the documentation straight from the codebase. But as for the code that is not intended for public consumption, such comments are redundant and will do more harm than good.
 
-### Tips and Tricks
+## Tips and Tricks
 
-**1. Use meaningful names**
+### 1. Use meaningful names
 
 Bad:
 
@@ -166,7 +166,7 @@ Good:
 const firstName = "Anastasiya"
 ```
 
-**2. Use a variable or a function to convey the information where possible**
+### 2. Use a variable or a function to convey the information where possible
 
 Bad:
 
@@ -190,9 +190,9 @@ if (isEmailValid(myEmail)) {
 }
 ```
 
-**3. Use short functions and files**
+### 3. Use short functions and files
 
-### Conclusion
+## Conclusion
 
 Sometimes comments are necessary. But more often than not, you can avoid them by writing cleaner and more readable code. Use comments only if you fail to express yourself in code.
 
