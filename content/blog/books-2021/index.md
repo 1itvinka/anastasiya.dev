@@ -3,6 +3,11 @@ title: "Best Books I've Read and Listened in 2021"
 date: "2021-01-17T09:24:38+00:00"
 updatedOnDate: "2021-01-17T09:24:38+00:00"
 image: img.jpg
+imageRef:
+  link: https://pixabay.com/photos/bag-book-sunglasses-reading-801703/
+  platform: Pixabay
+  authorName: Free-Photos
+  authorLink: https://pixabay.com/users/free-photos-242387/
 ---
 
 <section class="book">
@@ -11,7 +16,7 @@ image: img.jpg
 
 ![Book Cover](https://m.media-amazon.com/images/I/61cTxHI9qiL._SL500_.jpg)
 
-If you'd like to spend less money on marketing and recruiting — write a book like this! 😉 It was so good to learn more about Twilio, its history, values, and priorities. The CEO of Twilio truly understands what makes good developers tick. I can highly recommend this book for the founders, CEOs, managers, and anyone who will ever need to embed communications to their systems.
+If you'd like to spend less money on marketing and recruiting — write a book like this! 😉 It was so good to learn more about Twilio, its history, values, and priorities. The CEO of Twilio truly understands what makes good developers tick. Part 3 if full of great ideas. Highly recommended!
 
 </section>
 
