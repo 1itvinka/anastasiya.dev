@@ -1,7 +1,7 @@
 ---
 title: "Best Books I've Read and Listened in 2021"
 date: "2021-01-17T09:24:38+00:00"
-updatedOnDate: "2021-01-17T09:24:38+00:00"
+updatedOnDate: "2021-02-09T11:35:57+00:00"
 image: img.jpg
 imageRef:
   link: https://pixabay.com/photos/bag-book-sunglasses-reading-801703/
@@ -17,6 +17,36 @@ imageRef:
 ![Book Cover](https://m.media-amazon.com/images/I/61cTxHI9qiL._SL500_.jpg)
 
 If you'd like to spend less money on marketing and recruiting — write a book like this! 😉 It was so good to learn more about Twilio, its history, values, and priorities. The CEO of Twilio truly understands what makes good developers tick. Part 3 if full of great ideas. Highly recommended!
+
+[Popular Quotes — Goodreads](https://www.goodreads.com/work/quotes/74073244-ask-your-developer-how-to-harness-the-power-of-software-developers-and)
+
+</section>
+
+<section class="book">
+
+### [No Rules Rules: Netflix and the Culture of Reinvention](https://www.amazon.co.uk/No-Rules-Netflix-Culture-Reinvention/dp/1984877860)
+
+![Book Cover](https://m.media-amazon.com/images/I/51bvrB6WjPL._SL500_.jpg)
+
+A great book about the company culture at Netflix: the culture of ownership, responsibility and continuous improvement. Although the rules described here won't work for every company/team, I would highly recommend the book to executives and managers in tech.
+
+[Popular Quotes — Goodreads](https://www.goodreads.com/work/quotes/74541588-no-rules-rules)
+
+</section>
+
+<section class="book">
+
+### [Can't Hurt Me: Master Your Mind and Defy the Odds](https://www.amazon.co.uk/Cant-Hurt-Me-Master-Your/dp/1544512279/)
+
+![Book Cover](https://m.media-amazon.com/images/I/51Ln2UdUzhL._SL500_.jpg)
+
+I'm still shocked at what disadvantage can people start their lives. People in education should definitely adjust their approaches if they work with kids like David.
+
+I totally agree with the importance of owning your life and getting rid of the "victim's mentality" no matter what. It doesn't matter if you're a minority or was at a disadvantage, or things are not fair — you're responsible for your life and your future.
+
+But I disagree that intentionally go through all that suffering and injuries is a healthy way to approach life.
+
+[Popular Quotes — Goodreads](https://www.goodreads.com/work/quotes/65082544-can-t-hurt-me-master-your-mind-and-defy-the-odds)
 
 </section>
 
