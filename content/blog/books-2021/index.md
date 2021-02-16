@@ -1,7 +1,7 @@
 ---
 title: "Best Books I've Read and Listened in 2021"
 date: "2021-01-17T09:24:38+00:00"
-updatedOnDate: "2021-02-09T11:35:57+00:00"
+updatedOnDate: "2021-02-16T15:34:10+00:00"
 image: img.jpg
 imageRef:
   link: https://pixabay.com/photos/bag-book-sunglasses-reading-801703/
@@ -9,6 +9,18 @@ imageRef:
   authorName: Free-Photos
   authorLink: https://pixabay.com/users/free-photos-242387/
 ---
+
+<section class="book">
+
+### [Maybe You Should Talk to Someone](https://www.amazon.co.uk/Maybe-You-Should-Talk-Someone-ebook/dp/B07KM93FN7/)
+
+![Book Cover](https://m.media-amazon.com/images/I/41lmhgvgBjL._SL500_.jpg)
+
+I absolutely loved the book. It made me cry and laugh, and think a lot about my life. My favourite book this year so far.
+
+[Popular Quotes — Goodreads](https://www.goodreads.com/work/quotes/59181770-maybe-you-should-talk-to-someone-a-therapist-her-therapist-and-our-li)
+
+</section>
 
 <section class="book">
 
