@@ -12,18 +12,6 @@ imageRef:
 
 <section class="book">
 
-### [Maybe You Should Talk to Someone](https://www.amazon.co.uk/Maybe-You-Should-Talk-Someone-ebook/dp/B07KM93FN7/)
-
-![Book Cover](https://m.media-amazon.com/images/I/41lmhgvgBjL._SL500_.jpg)
-
-I absolutely loved the book. It made me cry and laugh, and think a lot about my life. My favourite book this year so far.
-
-[Popular Quotes — Goodreads](https://www.goodreads.com/work/quotes/59181770-maybe-you-should-talk-to-someone-a-therapist-her-therapist-and-our-li)
-
-</section>
-
-<section class="book">
-
 ### [Ask Your Developer](https://www.amazon.co.uk/Ask-Your-Developer-Software-Developers-ebook/dp/B08425FV7S/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/61cTxHI9qiL._SL500_.jpg)
@@ -43,6 +31,18 @@ If you'd like to spend less money on marketing and recruiting — write a book l
 A great book about the company culture at Netflix: the culture of ownership, responsibility and continuous improvement. Although the rules described here won't work for every company/team, I would highly recommend the book to executives and managers in tech.
 
 [Popular Quotes — Goodreads](https://www.goodreads.com/work/quotes/74541588-no-rules-rules)
+
+</section>
+
+<section class="book">
+
+### [Maybe You Should Talk to Someone](https://www.amazon.co.uk/Maybe-You-Should-Talk-Someone-ebook/dp/B07KM93FN7/)
+
+![Book Cover](https://m.media-amazon.com/images/I/41lmhgvgBjL._SL500_.jpg)
+
+I absolutely loved the book. It made me cry and laugh, and think a lot about my life. My favourite book this year so far.
+
+[Popular Quotes — Goodreads](https://www.goodreads.com/work/quotes/59181770-maybe-you-should-talk-to-someone-a-therapist-her-therapist-and-our-li)
 
 </section>
 
