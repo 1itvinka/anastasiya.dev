@@ -1,7 +1,7 @@
 ---
 title: "Best Books I've Read and Listened in 2020"
 date: "2020-08-28T15:25:45+00:00"
-updatedOnDate: "2021-01-01T14:34:50+00:00"
+updatedOnDate: "2021-05-29T17:27:52+00:00"
 image: img.jpg
 ---
 
@@ -9,7 +9,7 @@ image: img.jpg
 
 <section class="book">
 
-### [The Power of Habit: Why We Do What We Do, and How to Change](https://amzn.to/2F6h31J)
+### [The Power of Habit: Why We Do What We Do, and How to Change](https://www.amazon.co.uk/gp/product/1847946240/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51PAtnlvW1L._SL500_.jpg)
 
@@ -19,7 +19,7 @@ This book shows how habits drive the behaviour of individuals, organisations, an
 
 <section class="book">
 
-### [How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life](https://amzn.to/33H98SS)
+### [How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life](https://www.amazon.co.uk/gp/product/0241003709/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51cA0gImCZL._SL500_.jpg)
 
@@ -34,7 +34,7 @@ And many more. I'm definitely going to reread soon!
 
 <section class="book">
 
-### [Never Split the Difference: Negotiating as if Your Life Depended on It](https://amzn.to/3a6CYkG)
+### [Never Split the Difference: Negotiating as if Your Life Depended on It](https://www.amazon.co.uk/gp/product/1847941494/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51TSWCruAHL._SL500_.jpg)
 
@@ -44,7 +44,7 @@ This book is the first in my list "to reread with full concentration while takin
 
 <section class="book">
 
-### [Made to Stick: Why Some Ideas Survive and Others Die](https://amzn.to/3acbXfF)
+### [Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.co.uk/gp/product/009950569X/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51fhNaNM87L._SL500_.jpg)
 
@@ -61,7 +61,7 @@ Although the book could be much shorter, I've enjoyed it from start to finish.
 
 <section class="book">
 
-### [Permission to Screw Up. How I Learned to Lead by Doing (Almost) Everything Wrong](https://amzn.to/3hCRkvX)
+### [Permission to Screw Up. How I Learned to Lead by Doing (Almost) Everything Wrong](https://www.amazon.co.uk/gp/product/B0753ZLJHG/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/41yGM8LleOL._SL500_.jpg)
 
@@ -71,7 +71,7 @@ Loved it! It's a book that every leader should read. Full of stories, direct and
 
 <section class="book">
 
-### [Influence. The Psychology of Persuasion](https://amzn.to/2KJebLu)
+### [Influence. The Psychology of Persuasion](https://www.amazon.co.uk/gp/product/006124189X)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51K-iHvDHNL._SL500_.jpg)
 
@@ -83,7 +83,7 @@ The "Authority" part surprised me the most, to be honest. I was shocked by the r
 
 <section class="book">
 
-### [The Chimp Paradox](https://amzn.to/33H8gh0)
+### [The Chimp Paradox](https://www.amazon.co.uk/gp/product/009193558X/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51BydRgJ2CL._SL500_.jpg)
 
@@ -93,7 +93,7 @@ The mind model described in the book is absolutely brilliant. It says that withi
 
 <section class="book">
 
-### [Peak Performance: Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success](https://amzn.to/30FlSHG)
+### [Peak Performance: Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success](https://www.amazon.co.uk/gp/product/162336793X/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/41ssxrhLwCL._SL500_.jpg)
 
@@ -103,7 +103,7 @@ Although the book was super dull at the beginning, I'm glad I kept listening as 
 
 <section class="book">
 
-### [Make Time: How to focus on what matters every day](https://amzn.to/33Slc3N)
+### [Make Time: How to focus on what matters every day](https://www.amazon.co.uk/gp/product/0593079582/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51gQ7pHF-zL._SL500_.jpg)
 
@@ -113,7 +113,7 @@ The book is full of great tips and practical advice about helping you make time 
 
 <section class="book">
 
-### [Algorithms to Live By: The Computer Science of Human Decisions](https://amzn.to/2PCRDKU)
+### [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.co.uk/gp/product/0007547994/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/519lKuoLN-L.jpg)
 
@@ -123,7 +123,7 @@ Any mathematician or/and a programmer will absolutely love this book! Very well 
 
 <section class="book">
 
-### [Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers](https://amzn.to/2C8eHy2)
+### [Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers](https://www.amazon.co.uk/gp/product/1785041274/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51xVXCYXeGL._SL500_.jpg)
 
@@ -133,7 +133,7 @@ Although the audio version is quite hard to follow, this book is packed with gre
 
 <section class="book">
 
-### [How to Own the World: A Plain English Guide to Thinking Globally and Investing Wisely](https://amzn.to/31wtwDj)
+### [How to Own the World: A Plain English Guide to Thinking Globally and Investing Wisely](https://www.amazon.co.uk/gp/product/1473695309)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51PFdz2QfFL._SL500_.jpg)
 
@@ -143,7 +143,7 @@ I wish I'd read this book in my early 20s. It's an invaluable guide for a comple
 
 <section class="book">
 
-### [The Simple Path to Wealth: Your road map to financial independence and a rich, free life](https://amzn.to/2DzmuFN)
+### [The Simple Path to Wealth: Your road map to financial independence and a rich, free life](https://www.amazon.co.uk/gp/product/1533667926/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/414UzZxaSFL._SL500_.jpg)
 
@@ -153,7 +153,7 @@ Although the book is very US-focused, most principles are universal. I'll defini
 
 <section class="book">
 
-### [Bad Blood: Secrets and Lies in a Silicon Valley Startup](https://amzn.to/2PEtzY0)
+### [Bad Blood: Secrets and Lies in a Silicon Valley Startup](https://www.amazon.co.uk/gp/product/1509868089/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/41O5blDy52L._SL500_.jpg)
 
@@ -172,7 +172,7 @@ The book made me think about my professional life as well:
 
 <section class="book">
 
-### [Small Change: Money Mishaps and How to Avoid Them](https://amzn.to/3rJKHNU)
+### [Small Change: Money Mishaps and How to Avoid Them](https://www.amazon.co.uk/gp/product/B076JMYYGS/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51bm0GW2pqL._SL500_.jpg)
 
@@ -182,7 +182,7 @@ A good rehash of “Predictably Irrational" by the same author, but nothing new.
 
 <section class="book">
 
-### [The Lean Startup](https://amzn.to/3519XWj)
+### [The Lean Startup](https://www.amazon.co.uk/gp/product/0670921602/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51PAIR77wJL._SL500_.jpg)
 
@@ -192,7 +192,7 @@ I first read this book years ago. That's my favourite book about startups, entre
 
 <section class="book">
 
-### [Spark Joy: An Illustrated Guide to the Japanese Art of Tidying](https://amzn.to/30GfAHH)
+### [Spark Joy: An Illustrated Guide to the Japanese Art of Tidying](https://www.amazon.co.uk/gp/product/1785041029/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/31oTRCUjznL._SL500_.jpg)
 
@@ -202,7 +202,7 @@ I absolutely love the concept. The most insightful parts for me were about organ
 
 <section class="book">
 
-### [Running Like a Girl](https://amzn.to/3fzux2w)
+### [Running Like a Girl](https://www.amazon.co.uk/gp/product/0099558955/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51-gQGdYHCL._SL500_.jpg)
 
@@ -212,7 +212,7 @@ Gobbled up the book in 2 days. I always thought running is not my thing, even th
 
 <section class="book">
 
-### [How to Win Friends and Influence People](https://amzn.to/3afolvC)
+### [How to Win Friends and Influence People](https://www.amazon.co.uk/gp/product/0091906814/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51PWIy1rHUL._SL500_.jpg)
 
@@ -222,7 +222,7 @@ Must read for everyone. I'll try to reread this book every year.
 
 <section class="book">
 
-### [Ultralearning: Accelerate Your Career, Master Hard Skills and Outsmart the Competition](https://amzn.to/2Py53Il)
+### [Ultralearning: Accelerate Your Career, Master Hard Skills and Outsmart the Competition](https://www.amazon.co.uk/gp/product/0008305706)
 
 ![Book Cover](https://m.media-amazon.com/images/I/511nxjb8PCL._SL500_.jpg)
 
@@ -232,7 +232,7 @@ Full of great stories and very well-written, but I've already forgotten most of 
 
 <section class="book">
 
-### [24 Assets: Create a digital, scalable, valuable and fun business that will thrive in a fast changing world](https://amzn.to/31sDwxo)
+### [24 Assets: Create a digital, scalable, valuable and fun business that will thrive in a fast changing world](https://www.amazon.co.uk/gp/product/B071L8C8NV/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51cxEs66USL._SL500_.jpg)
 
@@ -242,7 +242,7 @@ It's an excellent book for entrepreneurs or business owners. I'll definitely rer
 
 <section class="book">
 
-### [Hit Refresh: A Memoir by Microsoft’s CEO](https://amzn.to/3imKV8l)
+### [Hit Refresh: A Memoir by Microsoft’s CEO](https://www.amazon.co.uk/gp/product/0008247692/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/41ikuB0l8qL._SL500_.jpg)
 
@@ -252,7 +252,7 @@ Good read overall, but as for me, there's too much advertising for Microsoft.
 
 <section class="book">
 
-### [The Latte Factor](https://amzn.to/2X2zD0s)
+### [The Latte Factor](https://www.amazon.co.uk/gp/product/1982120231/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/41Q+x7munYL._SL500_.jpg)
 
@@ -262,7 +262,7 @@ Nothing new for me here. But it was a good reminder about the power of the compo
 
 <section class="book">
 
-### [Becoming](https://amzn.to/34ZUlT2)
+### [Becoming](https://www.amazon.co.uk/gp/product/0241334144/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/41Y1DPGbDvL._SL500_.jpg)
 
@@ -276,7 +276,7 @@ Although physically exhausting, my 1st year of being a mum was pretty straightfo
 
 <section class="book">
 
-### [How To Talk So Little Kids Will Listen: A Survival Guide to Life with Children Ages 2-7](https://amzn.to/2DQwhHh)
+### [How To Talk So Little Kids Will Listen: A Survival Guide to Life with Children Ages 2-7](https://www.amazon.co.uk/gp/product/184812614X/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/6137ZXV2sxL._SL500_.jpg)
 
@@ -286,7 +286,7 @@ Such a useful guide that's full of brilliant tips! I'll definitely reread it nex
 
 <section class="book">
 
-### [The Gentle Sleep Book: Gentle, No-Tears, Sleep Solutions for Parents of Newborns to Five-Year-Olds](https://amzn.to/2DLWzux)
+### [The Gentle Sleep Book: Gentle, No-Tears, Sleep Solutions for Parents of Newborns to Five-Year-Olds](https://www.amazon.co.uk/gp/product/0349405204/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51SpxSOx1TL._SL500_.jpg)
 
@@ -296,7 +296,7 @@ I wish I'd read this book almost two years earlier! At least I would be much cal
 
 <section class="book">
 
-### [The Book You Wish Your Parents Had Read (and Your Children Will Be Glad That You Did)](https://amzn.to/3kqh14V)
+### [The Book You Wish Your Parents Had Read (and Your Children Will Be Glad That You Did)](https://www.amazon.co.uk/gp/product/0241250994/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/412BjWQUQwL._SL500_.jpg)
 
@@ -306,7 +306,7 @@ I can't recommend it enough. It was the first parenting book I've read. And it a
 
 <section class="book">
 
-### [Calm Parents, Happy Kids: The Secrets of Stress-free Parenting](https://amzn.to/3inr6Ok)
+### [Calm Parents, Happy Kids: The Secrets of Stress-free Parenting](https://www.amazon.co.uk/gp/product/0091955203/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/41NCU460OAL._SL500_.jpg)
 
@@ -316,7 +316,7 @@ Although the book is very repetitive, which is a bit annoying, the tips are incr
 
 <section class="book">
 
-### [The Danish Way of Parenting](https://amzn.to/3hDGKFe)
+### [The Danish Way of Parenting](https://www.amazon.co.uk/gp/product/0349414343/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51z+Grj8LsL._SL500_.jpg)
 
