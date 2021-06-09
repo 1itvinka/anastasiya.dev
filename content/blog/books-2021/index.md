@@ -54,7 +54,7 @@ This book answers the questions: why bonuses in most cases don't work, why you s
 
 ![Book Cover](https://m.media-amazon.com/images/I/51SIyrqOdxL._SL500_.jpg)
 
-Although the title feels "cheap", it's a very good book, full of useful information and ideas that I've never though about. Engaging and easy to follow. Will definitely read it again.
+Although the title feels "cheap", it's an excellent book, full of useful information and ideas that I've never thought about. Engaging and easy to follow. I Will definitely read it again.
 
 [Popular Quotes — Goodreads](https://www.goodreads.com/work/quotes/71431938-becoming-bulletproof)
 
@@ -66,7 +66,7 @@ Although the title feels "cheap", it's a very good book, full of useful informat
 
 ![Book Cover](https://m.media-amazon.com/images/I/41qaGvaR-aL._SL500_.jpg)
 
-Another great book. The key idea is that any strict diet will only slow down the metabolism and increase your body's weight set point, which will eventually result in more weight gain. It has nothing to do with self-control and willpower. The subconscious mind always wins this buttle. Only by targeting the weight set point and the signals that communicate with it, it's possible to lose weight for good. I highly recommend this book not only to people who want to control their weight, but also to anyone who've ever judged overweight people.
+Another great book. The key idea is that any strict diet will only slow down the metabolism and increase your body's weight set point, resulting in more weight gain. It has nothing to do with self-control and willpower. The subconscious mind always wins this buttle. Only by targeting the weight set point and the signals that communicate with it, it's possible to lose weight for good. I highly recommend this book not only to people who want to control their weight, but also to anyone who've ever judged overweight people.
 
 </section>
 
@@ -86,7 +86,7 @@ This book is an excellent guide on the skincare routines, products, how to use t
 
 ![Book Cover](https://m.media-amazon.com/images/I/416aXMcBWBL._SL500_.jpg)
 
-Entertaining and hillarious dive into complicated and often taboo topics. Couldn't put it down.
+Entertaining and hilarious dive into complicated and often taboo topics. I couldn't put it down.
 
 [Popular Quotes — Goodreads](https://www.goodreads.com/work/quotes/49969740-animal-the-autobiography-of-a-female-body)
 
@@ -110,7 +110,7 @@ I absolutely loved the book. It made me cry and laugh, and think a lot about my 
 
 ![Book Cover](https://m.media-amazon.com/images/I/519FQSCkzPL._SL500_.jpg)
 
-It was so good to re-live those precious moments of pregnancy, birth, and first yeas of been a mum. That's funny how similar and at the same time how different we are. I had many similar thoughts and frustrations, but many of them seem to me like overthinking.
+It was so good to re-live those precious moments of pregnancy, birth, and first years of being a mum. That's funny how similar and at the same time how different we are. I had many similar thoughts and frustrations, but many of them seem to me like overthinking.
 
 </section>
 
