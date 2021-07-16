@@ -1,5 +1,5 @@
 ---
-title: "New in JavaScript Cheatsheet: ES2020"
+title: "New in ES2020 Cheatsheet"
 date: "2020-11-30T12:54:27+00:00"
 updatedOnDate: "2020-11-30T12:54:27+00:00"
 image: img.jpg

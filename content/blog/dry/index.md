@@ -1,5 +1,5 @@
 ---
-title: "Clean JavaScript Code: DRY"
+title: "Don't Repeat Yourself"
 date: "2020-07-20T15:24:06+00:00"
 updatedOnDate: "2020-07-20T15:24:06+00:00"
 image: img.jpg

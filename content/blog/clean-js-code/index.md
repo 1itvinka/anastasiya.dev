@@ -14,14 +14,8 @@ I don't like long files, so I'll split the topic into several small posts. I pla
 [Part 0: Comments](https://anastasiya.dev/comments/)  
 [Part 1: Names](https://anastasiya.dev/names/)  
 [Part 2: Functions](https://anastasiya.dev/functions/)  
-Part 3: Classes  
-Part 4: Objects and Data Structures  
-Part 5: Concurrency  
-Part 6: SOLID  
-[Part 7: DRY](https://anastasiya.dev/dry/)  
-Part 8: Inheritance Tax  
-Part 9: Error Handling  
-[Part 10: Testing](https://anastasiya.dev/tests/)  
-[Part 11: Formatting](https://anastasiya.dev/formatting/)
+[Part 3: DRY](https://anastasiya.dev/dry/)  
+[Part 4: Testing](https://anastasiya.dev/tests/)  
+[Part 5: Formatting](https://anastasiya.dev/formatting/)
 
 My website is not a standard blog — it's a [digital garden](https://anastasiya.dev/why-digital-garden/), and I constantly add, move around, and remove stuff. So please feel free to join the conversation. All the content is on [github](https://github.com/1itvinka/anastasiya.dev/tree/master/content/blog). Or it might be easier to [discuss it on Twitter](https://mobile.twitter.com/search?q=https://anastasiya.dev/clean-js-code/).
