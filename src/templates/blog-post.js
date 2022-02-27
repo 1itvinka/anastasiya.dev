@@ -3,7 +3,7 @@ import { graphql } from "gatsby"
 import Container from "@material-ui/core/Container"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import Article from "../components/blog/article"
 import PostsNav from "../components/blog/posts-nav"
 
@@ -12,7 +12,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
 
   return (
     <Layout pageId={1}>
-      <SEO title={post.frontmatter.title} />
+      <Seo title={post.frontmatter.title} />
       <Container maxWidth="sm">
         <Article post={post} />
         <PostsNav pageContext={pageContext} />

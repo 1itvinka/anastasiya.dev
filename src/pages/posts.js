@@ -2,7 +2,7 @@ import React from "react"
 import makeStyles from "@material-ui/core/styles/makeStyles"
 import Container from "@material-ui/core/Container"
 import Typography from "@material-ui/core/Typography"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import Layout from "../components/layout"
 import Posts from "../components/blog/posts"
 import Description from "../components/description"
@@ -26,7 +26,7 @@ export default function PostsPage() {
 
   return (
     <Layout pageId={1}>
-      <SEO title="Posts" />
+      <Seo title="Posts" />
       <div className={classes.root}>
         <Container maxWidth="lg">
           <Typography variant="h2" className={classes.title}>
