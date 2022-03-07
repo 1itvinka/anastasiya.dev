@@ -1,7 +1,7 @@
 ---
 title: "Best Books I've Read and Listened in 2021"
 date: "2021-01-17T09:24:38+00:00"
-updatedOnDate: "2021-06-09T17:00:17+00:00"
+updatedOnDate: "2022-03-07T17:10:21+00:00"
 image: img.jpg
 imageRef:
   link: https://pixabay.com/photos/bag-book-sunglasses-reading-801703/
@@ -36,6 +36,58 @@ A great book about the company culture at Netflix: the culture of ownership, res
 
 <section class="book">
 
+### [Clean Coder](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers-ebook/dp/B0050JLC9Y/)
+
+![Book Cover](https://m.media-amazon.com/images/I/51VzkJGKrjL._SL500_.jpg)
+
+The basics of professional behaviour for a software engineer. Must read for anyone in the industry!
+
+[Popular Quotes — Goodreads](https://www.goodreads.com/work/quotes/15186027-the-clean-coder-a-code-of-conduct-for-professional-programmers)
+
+</section>
+
+<section class="book">
+
+### [Clean Code](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/)
+
+![Book Cover](https://m.media-amazon.com/images/I/41EYLUDaF8L._SL500_.jpg)
+
+Great reminder of good practices.
+
+</section>
+
+<section class="book">
+
+### [Clean Agile](https://www.amazon.co.uk/Clean-Agile-Basics-Robert-Martin-ebook/dp/B07XTL99JQ/)
+
+![Book Cover](https://m.media-amazon.com/images/I/416ishNzDYL._SL500_.jpg)
+
+History and basics of Agile.
+
+</section>
+
+<section class="book">
+
+### [Extreme Ownership](https://www.amazon.co.uk/Extreme-Ownership-U-S-Navy-SEALs/dp/B015TXS2Q6)
+
+![Book Cover](https://m.media-amazon.com/images/I/51EDhEokzbL._SL500_.jpg)
+
+Extreme Ownership is about taking total and complete responsibility for your life, your projects, your team, etc. It's the opposite of the victim mentality, which can only hold us back. Must read for every leader.
+
+</section>
+
+<section class="book">
+
+### [Willpower doesn’t work](https://www.amazon.co.uk/Willpower-Doesnt-Work-Discover-Success-ebook/dp/B073RMZWD2/)
+
+![Book Cover](https://m.media-amazon.com/images/I/51HRM8a7YSL._SL500_.jpg)
+
+Excellent book explaining why willpower is insufficient to develop positive habits. The book focuses on environmental design. Change your environment and take willpower out of the equation.
+
+</section>
+
+<section class="book">
+
 ### [Drive: The Surprising Truth about What Motivates Us](https://www.amazon.co.uk/Drive-Surprising-Truth-About-Motivates-ebook/dp/B0033TI4BW/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/51bCDvxyngL._SL500_.jpg)
@@ -62,11 +114,61 @@ Although the title feels "cheap", it's an excellent book, full of useful informa
 
 <section class="book">
 
+### [Gut](https://www.amazon.co.uk/Gut/dp/B00WKWSIGY)
+
+![Book Cover](https://m.media-amazon.com/images/I/5110ffzUFkL._SL500_.jpg)
+
+This is one of best books I have read this year. The book is full of useful information and it's easy to read. Gut health plays a huge role in our physical and mental wellbeing.
+
+</section>
+
+<section class="book">
+
+### [Essentialism](https://www.amazon.co.uk/Essentialism-Disciplined-Pursuit-Greg-McKeown-ebook/dp/B00HELB6XI/)
+
+![Book Cover](https://m.media-amazon.com/images/I/51AP0QEvJBL._SL500_.jpg)
+
+Great ideas and some good advice, but too repetitive.
+
+</section>
+
+<section class="book">
+
+### [Facebook](https://www.amazon.co.uk/Facebook-Inside-Story-Steven-Levy-ebook/dp/B081R296DR/)
+
+![Book Cover](https://m.media-amazon.com/images/I/41eVbO6kx-L._SL500_.jpg)
+
+A comprehensive book about the history of Facebook.
+
+</section>
+
+<section class="book">
+
+### [The Five Elements of Effective Thinking](https://www.amazon.co.uk/5-Elements-Effective-Thinking-ebook/dp/B008JUVDUE/)
+
+![Book Cover](https://m.media-amazon.com/images/I/41wEj7lRIFL._SL500_.jpg)
+
+Excellent book! Will read it again.
+
+</section>
+
+<section class="book">
+
+### [The Bitcoin Standard](https://www.amazon.co.uk/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861/)
+
+![Book Cover](https://m.media-amazon.com/images/I/51bXwP-iB4L._SL500_.jpg)
+
+Some useful information about bitcoin and financial systems.
+
+</section>
+
+<section class="book">
+
 ### [Why We Eat (Too Much)](https://www.amazon.co.uk/Why-We-Eat-Too-Much-ebook/dp/B07XLFX52N/)
 
 ![Book Cover](https://m.media-amazon.com/images/I/41qaGvaR-aL._SL500_.jpg)
 
-Another great book. The key idea is that any strict diet will only slow down the metabolism and increase your body's weight set point, resulting in more weight gain. It has nothing to do with self-control and willpower. The subconscious mind always wins this buttle. Only by targeting the weight set point and the signals that communicate with it, it's possible to lose weight for good. I highly recommend this book not only to people who want to control their weight, but also to anyone who've ever judged overweight people.
+Another great book. The key idea is that any strict diet will only slow down the metabolism and increase your body's weight set point, resulting in more weight gain. It has nothing to do with self-control and willpower. The subconscious mind always wins this buttle. Only by targeting the weight set point and the signals that communicate with it, it's possible to lose weight for good.
 
 </section>
 
@@ -76,7 +178,7 @@ Another great book. The key idea is that any strict diet will only slow down the
 
 ![Book Cover](https://m.media-amazon.com/images/I/51eZLpmg7mL._SL500_.jpg)
 
-This book is an excellent guide on the skincare routines, products, how to use them, and what to avoid. This information is such a game changer for me! Highly recommended.
+This book is an excellent guide on the skincare routines, products, how to use them, and what to avoid. This information is such a game-changer for me! Highly recommended.
 
 </section>
 
@@ -143,7 +245,5 @@ But I disagree that intentionally go through all that suffering and injuries is 
 </section>
 
 <section class="separator"><em></em><em></em><em></em></section>
-
-My website is not a standard blog — it's a [digital garden](https://anastasiya.dev/why-digital-garden/), and I constantly add and move around stuff. I'll be adding the books I've read in 2021 as the year progresses.
 
 [Best Books I've Read and Listened in 2020](https://anastasiya.dev/books-2020/).
